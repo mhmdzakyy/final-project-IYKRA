@@ -1,0 +1,1001 @@
+"id","date","age","job","marital","education","default","housing","loan","contact","month","day_of_week","duration","campaign","pdays","previous","poutcome","emp.var.rate","cons.price.idx","cons.conf.idx","euribor3m","nr.employed","y"
+7001,"2022-10-08",32,technician,married,professional.course,no,no,no,telephone,may,thu,27,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7002,"2022-10-08",48,blue-collar,married,basic.6y,no,yes,no,telephone,may,thu,544,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7003,"2022-10-08",46,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,346,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7004,"2022-10-08",50,services,married,high.school,no,no,no,telephone,may,thu,134,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7005,"2022-10-08",41,admin.,married,high.school,no,no,no,telephone,may,thu,135,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7006,"2022-10-08",42,admin.,single,unknown,no,no,no,telephone,may,thu,633,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7007,"2022-10-08",42,technician,married,university.degree,unknown,no,no,telephone,may,thu,48,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7008,"2022-10-08",31,admin.,married,university.degree,no,yes,no,telephone,may,thu,359,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7009,"2022-10-08",40,technician,married,professional.course,unknown,yes,no,telephone,may,thu,105,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7010,"2022-10-08",37,unemployed,married,professional.course,unknown,no,no,telephone,may,thu,746,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7011,"2022-10-08",37,technician,single,professional.course,no,no,no,telephone,may,thu,322,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7012,"2022-10-08",45,unknown,married,unknown,unknown,yes,no,telephone,may,thu,56,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7013,"2022-10-08",32,management,single,university.degree,no,unknown,unknown,telephone,may,thu,315,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7014,"2022-10-08",41,entrepreneur,married,university.degree,unknown,yes,no,telephone,may,thu,126,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7015,"2022-10-08",57,technician,married,basic.4y,unknown,no,no,telephone,may,thu,122,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7016,"2022-10-08",33,management,married,university.degree,no,yes,no,telephone,may,thu,144,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7017,"2022-10-08",36,admin.,married,university.degree,no,yes,no,telephone,may,thu,445,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7018,"2022-10-08",39,technician,married,professional.course,no,no,no,telephone,may,thu,356,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7019,"2022-10-08",40,self-employed,married,high.school,unknown,yes,no,telephone,may,thu,144,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7020,"2022-10-08",31,admin.,married,university.degree,no,yes,no,telephone,may,thu,102,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7021,"2022-10-08",34,management,married,university.degree,no,no,no,telephone,may,thu,187,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7022,"2022-10-08",42,management,married,university.degree,unknown,no,no,telephone,may,thu,329,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7023,"2022-10-08",59,retired,divorced,basic.4y,unknown,yes,no,telephone,may,thu,247,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7024,"2022-10-08",52,admin.,married,basic.6y,no,yes,no,telephone,may,thu,152,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7025,"2022-10-08",30,services,divorced,basic.9y,no,yes,no,telephone,may,thu,49,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7026,"2022-10-08",52,technician,single,professional.course,unknown,no,no,telephone,may,thu,223,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7027,"2022-10-08",30,services,divorced,basic.9y,no,no,no,telephone,may,thu,177,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7028,"2022-10-08",38,services,married,high.school,unknown,no,yes,telephone,may,thu,77,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7029,"2022-10-08",44,blue-collar,single,basic.4y,no,yes,no,telephone,may,thu,106,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7030,"2022-10-08",47,admin.,married,basic.9y,no,yes,no,telephone,may,thu,146,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7031,"2022-10-08",38,blue-collar,married,basic.6y,unknown,yes,no,telephone,may,thu,125,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7032,"2022-10-08",41,blue-collar,married,basic.4y,no,no,no,telephone,may,thu,404,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7033,"2022-10-08",48,entrepreneur,married,university.degree,no,yes,no,telephone,may,thu,413,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7034,"2022-10-08",31,admin.,single,high.school,no,yes,no,telephone,may,thu,177,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7035,"2022-10-08",38,self-employed,married,unknown,no,yes,no,telephone,may,thu,118,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7036,"2022-10-08",52,services,divorced,high.school,no,yes,no,telephone,may,thu,201,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7037,"2022-10-08",43,blue-collar,married,basic.4y,no,yes,no,telephone,may,thu,609,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7038,"2022-10-08",46,technician,married,professional.course,no,no,no,telephone,may,thu,251,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7039,"2022-10-08",34,unemployed,single,university.degree,no,yes,yes,telephone,may,thu,35,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7040,"2022-10-08",35,services,married,basic.6y,no,yes,no,telephone,may,thu,473,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7041,"2022-10-08",29,entrepreneur,divorced,basic.9y,no,yes,no,telephone,may,thu,596,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7042,"2022-10-08",55,admin.,divorced,university.degree,no,no,no,telephone,may,thu,370,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7043,"2022-10-08",24,student,married,university.degree,no,no,no,telephone,may,thu,691,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7044,"2022-10-08",29,services,single,high.school,no,no,no,telephone,may,thu,70,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7045,"2022-10-08",39,entrepreneur,single,basic.6y,no,yes,no,telephone,may,thu,77,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7046,"2022-10-08",30,technician,married,high.school,no,yes,no,telephone,may,thu,212,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7047,"2022-10-08",30,technician,single,professional.course,no,yes,no,telephone,may,thu,245,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7048,"2022-10-08",33,blue-collar,married,basic.9y,no,no,no,telephone,may,thu,544,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7049,"2022-10-08",38,services,married,high.school,no,no,yes,telephone,may,thu,117,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7050,"2022-10-08",41,blue-collar,married,basic.9y,no,no,no,telephone,may,thu,410,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7051,"2022-10-08",41,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,513,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7052,"2022-10-08",40,management,single,university.degree,no,no,no,telephone,may,thu,179,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7053,"2022-10-08",38,services,married,high.school,no,yes,no,telephone,may,thu,896,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7054,"2022-10-08",28,technician,divorced,professional.course,unknown,yes,no,telephone,may,thu,174,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7055,"2022-10-08",33,self-employed,single,university.degree,no,no,no,telephone,may,thu,365,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7056,"2022-10-08",31,admin.,divorced,high.school,no,no,no,telephone,may,thu,1207,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7057,"2022-10-08",41,services,married,university.degree,no,no,no,telephone,may,thu,158,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7058,"2022-10-08",47,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,159,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7059,"2022-10-08",38,technician,married,professional.course,no,yes,no,telephone,may,thu,82,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7060,"2022-10-08",57,services,married,high.school,unknown,yes,no,telephone,may,thu,180,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7061,"2022-10-08",56,admin.,divorced,basic.9y,unknown,yes,no,telephone,may,thu,42,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7062,"2022-10-08",28,technician,divorced,high.school,no,yes,no,telephone,may,thu,206,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7063,"2022-10-08",28,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,92,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7064,"2022-10-08",51,self-employed,married,basic.9y,no,yes,no,telephone,may,thu,162,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7065,"2022-10-08",41,management,married,unknown,no,yes,no,telephone,may,thu,347,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7066,"2022-10-08",36,blue-collar,married,unknown,unknown,no,no,telephone,may,thu,117,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7067,"2022-10-08",41,services,married,university.degree,no,yes,yes,telephone,may,thu,936,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7068,"2022-10-08",56,admin.,married,high.school,no,no,no,telephone,may,thu,162,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7069,"2022-10-08",41,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,126,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7070,"2022-10-08",26,admin.,married,high.school,no,yes,no,telephone,may,thu,344,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7071,"2022-10-08",44,services,divorced,high.school,no,no,no,telephone,may,thu,71,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7072,"2022-10-08",42,services,married,basic.6y,no,yes,no,telephone,may,thu,178,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7073,"2022-10-08",35,technician,single,university.degree,no,no,no,telephone,may,thu,52,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7074,"2022-10-08",28,self-employed,single,university.degree,no,yes,no,telephone,may,thu,409,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7075,"2022-10-08",30,technician,single,university.degree,no,no,no,telephone,may,thu,272,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7076,"2022-10-08",45,technician,divorced,professional.course,no,no,no,telephone,may,thu,87,7,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7077,"2022-10-08",47,admin.,single,unknown,unknown,no,no,telephone,may,thu,127,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7078,"2022-10-08",33,management,married,high.school,unknown,yes,no,telephone,may,thu,202,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7079,"2022-10-08",36,services,married,high.school,unknown,yes,no,telephone,may,thu,117,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7080,"2022-10-08",41,blue-collar,married,basic.9y,no,no,no,telephone,may,thu,441,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7081,"2022-10-08",47,admin.,married,basic.4y,no,no,no,telephone,may,thu,175,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7082,"2022-10-08",36,blue-collar,single,high.school,no,no,no,telephone,may,thu,164,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7083,"2022-10-08",52,services,married,basic.9y,unknown,no,no,telephone,may,thu,80,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7084,"2022-10-08",28,blue-collar,married,basic.4y,no,no,no,telephone,may,thu,932,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7085,"2022-10-08",26,self-employed,married,university.degree,no,no,no,telephone,may,thu,13,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7086,"2022-10-08",36,services,married,high.school,no,no,no,telephone,may,thu,139,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7087,"2022-10-08",38,management,married,high.school,unknown,no,no,telephone,may,thu,879,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7088,"2022-10-08",36,admin.,married,high.school,no,no,no,telephone,may,thu,263,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7089,"2022-10-08",39,blue-collar,married,high.school,unknown,yes,no,telephone,may,thu,64,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7090,"2022-10-08",35,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,thu,440,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7091,"2022-10-08",37,unemployed,married,university.degree,unknown,no,no,telephone,may,thu,76,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7092,"2022-10-08",38,admin.,married,high.school,no,yes,no,telephone,may,thu,26,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7093,"2022-10-08",45,technician,married,professional.course,no,no,no,telephone,may,thu,455,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7094,"2022-10-08",33,unemployed,divorced,basic.9y,no,yes,no,telephone,may,thu,180,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7095,"2022-10-08",34,management,married,university.degree,no,no,no,telephone,may,thu,200,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7096,"2022-10-08",31,blue-collar,married,basic.9y,no,no,no,telephone,may,thu,535,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7097,"2022-10-08",46,blue-collar,married,basic.4y,unknown,unknown,unknown,telephone,may,thu,313,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7098,"2022-10-08",58,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,thu,101,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7099,"2022-10-08",40,services,married,high.school,unknown,no,no,telephone,may,thu,473,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7100,"2022-10-08",46,self-employed,divorced,university.degree,no,yes,yes,telephone,may,thu,1026,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7101,"2022-10-08",39,admin.,single,university.degree,no,no,yes,telephone,may,thu,364,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7102,"2022-10-08",40,technician,married,basic.4y,no,yes,no,telephone,may,thu,153,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7103,"2022-10-08",34,services,divorced,professional.course,unknown,yes,no,telephone,may,thu,158,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7104,"2022-10-08",36,unemployed,divorced,professional.course,no,yes,no,telephone,may,thu,617,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7105,"2022-10-08",30,admin.,married,university.degree,no,no,no,telephone,may,thu,99,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7106,"2022-10-08",50,services,divorced,basic.4y,unknown,yes,yes,telephone,may,thu,217,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7107,"2022-10-08",42,admin.,married,university.degree,no,no,no,telephone,may,thu,129,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7108,"2022-10-08",45,blue-collar,married,basic.6y,unknown,yes,no,telephone,may,thu,277,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7109,"2022-10-08",59,entrepreneur,married,basic.9y,no,no,no,telephone,may,thu,200,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7110,"2022-10-08",59,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,thu,105,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7111,"2022-10-08",51,admin.,married,high.school,no,yes,no,telephone,may,thu,431,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7112,"2022-10-08",49,technician,married,professional.course,no,no,no,telephone,may,thu,417,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7113,"2022-10-08",44,blue-collar,married,basic.9y,no,yes,no,telephone,may,thu,480,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7114,"2022-10-08",30,blue-collar,single,basic.4y,unknown,yes,yes,telephone,may,thu,331,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7115,"2022-10-08",39,services,married,high.school,no,no,no,telephone,may,thu,359,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7116,"2022-10-08",35,technician,single,basic.6y,no,unknown,unknown,telephone,may,thu,332,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7117,"2022-10-08",35,technician,married,university.degree,unknown,no,no,telephone,may,thu,215,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7118,"2022-10-08",59,admin.,married,university.degree,no,yes,yes,telephone,may,thu,535,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7119,"2022-10-08",59,entrepreneur,married,university.degree,unknown,no,no,telephone,may,thu,147,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7120,"2022-10-08",43,blue-collar,married,basic.9y,no,no,no,telephone,may,thu,13,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7121,"2022-10-08",29,services,single,high.school,no,no,no,telephone,may,thu,689,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7122,"2022-10-08",56,blue-collar,married,basic.4y,no,yes,no,telephone,may,thu,242,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7123,"2022-10-08",41,housemaid,married,university.degree,no,no,no,telephone,may,thu,665,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7124,"2022-10-08",47,services,divorced,high.school,no,yes,no,telephone,may,thu,97,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7125,"2022-10-08",49,services,married,high.school,unknown,yes,no,telephone,may,thu,166,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7126,"2022-10-08",43,admin.,married,basic.9y,no,no,no,telephone,may,thu,207,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7127,"2022-10-08",34,services,married,high.school,unknown,no,no,telephone,may,thu,376,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7128,"2022-10-08",31,housemaid,married,high.school,no,no,no,telephone,may,thu,480,10,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7129,"2022-10-08",60,admin.,single,high.school,no,yes,no,telephone,may,thu,609,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7130,"2022-10-08",29,self-employed,married,university.degree,no,no,no,telephone,may,thu,116,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7131,"2022-10-08",34,management,married,professional.course,unknown,no,no,telephone,may,thu,484,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7132,"2022-10-08",54,retired,married,basic.9y,no,yes,no,telephone,may,thu,217,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7133,"2022-10-08",31,admin.,married,basic.9y,no,no,no,telephone,may,thu,112,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7134,"2022-10-08",45,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,726,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7135,"2022-10-08",51,services,single,high.school,unknown,yes,no,telephone,may,thu,148,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7136,"2022-10-08",40,admin.,single,high.school,no,yes,no,telephone,may,thu,1047,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7137,"2022-10-08",38,blue-collar,divorced,unknown,no,no,no,telephone,may,thu,362,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7138,"2022-10-08",37,admin.,married,university.degree,no,yes,no,telephone,may,thu,1059,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7139,"2022-10-08",37,technician,single,high.school,unknown,yes,no,telephone,may,thu,54,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7140,"2022-10-08",36,admin.,married,university.degree,no,no,yes,telephone,may,thu,184,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7141,"2022-10-08",35,entrepreneur,married,university.degree,unknown,yes,yes,telephone,may,thu,253,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7142,"2022-10-08",54,services,married,unknown,no,no,no,telephone,may,thu,114,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7143,"2022-10-08",34,services,divorced,basic.9y,no,yes,yes,telephone,may,thu,293,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7144,"2022-10-08",49,blue-collar,married,unknown,unknown,no,no,telephone,may,thu,246,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7145,"2022-10-08",42,self-employed,married,basic.6y,no,yes,yes,telephone,may,thu,195,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7146,"2022-10-08",32,unknown,unknown,university.degree,no,yes,yes,telephone,may,thu,221,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7147,"2022-10-08",55,technician,married,professional.course,no,yes,no,telephone,may,thu,166,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7148,"2022-10-08",40,technician,single,university.degree,unknown,no,yes,telephone,may,thu,385,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7149,"2022-10-08",50,entrepreneur,married,basic.9y,no,no,no,telephone,may,thu,85,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7150,"2022-10-08",31,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,173,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7151,"2022-10-08",50,technician,divorced,basic.9y,no,no,yes,telephone,may,thu,48,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7152,"2022-10-08",51,management,married,university.degree,no,yes,no,telephone,may,thu,410,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7153,"2022-10-08",46,management,married,university.degree,unknown,yes,no,telephone,may,thu,311,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7154,"2022-10-08",44,blue-collar,married,basic.4y,no,yes,no,telephone,may,thu,40,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7155,"2022-10-08",57,management,divorced,university.degree,no,yes,no,telephone,may,thu,81,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7156,"2022-10-08",30,blue-collar,married,university.degree,no,no,no,telephone,may,thu,558,13,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7157,"2022-10-08",54,technician,married,university.degree,unknown,no,no,telephone,may,thu,109,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7158,"2022-10-08",54,retired,divorced,basic.4y,no,yes,no,telephone,may,thu,77,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7159,"2022-10-08",24,services,single,high.school,no,yes,no,telephone,may,thu,70,7,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7160,"2022-10-08",45,self-employed,divorced,university.degree,no,yes,no,telephone,may,thu,229,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7161,"2022-10-08",49,housemaid,married,professional.course,no,no,no,telephone,may,thu,565,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7162,"2022-10-08",39,blue-collar,divorced,unknown,unknown,no,yes,telephone,may,thu,145,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7163,"2022-10-08",36,admin.,single,university.degree,no,no,no,telephone,may,thu,792,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7164,"2022-10-08",31,admin.,married,high.school,unknown,yes,no,telephone,may,thu,199,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7165,"2022-10-08",36,management,married,university.degree,unknown,yes,no,telephone,may,thu,488,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7166,"2022-10-08",51,services,married,basic.6y,no,yes,no,telephone,may,thu,176,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7167,"2022-10-08",48,housemaid,divorced,basic.4y,unknown,yes,yes,telephone,may,thu,123,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7168,"2022-10-08",51,blue-collar,married,basic.6y,unknown,yes,yes,telephone,may,thu,88,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7169,"2022-10-08",41,technician,married,professional.course,unknown,yes,no,telephone,may,thu,768,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7170,"2022-10-08",37,blue-collar,single,professional.course,no,yes,no,telephone,may,thu,105,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7171,"2022-10-08",46,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,thu,101,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7172,"2022-10-08",54,retired,married,basic.4y,no,no,no,telephone,may,thu,225,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7173,"2022-10-08",49,admin.,single,unknown,unknown,yes,no,telephone,may,thu,122,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7174,"2022-10-08",41,blue-collar,married,basic.9y,unknown,unknown,unknown,telephone,may,thu,52,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7175,"2022-10-08",52,self-employed,single,university.degree,unknown,yes,no,telephone,may,thu,150,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7176,"2022-10-08",30,technician,married,university.degree,unknown,yes,no,telephone,may,thu,399,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7177,"2022-10-08",30,blue-collar,married,basic.9y,no,yes,no,telephone,may,thu,58,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7178,"2022-10-08",42,admin.,married,high.school,no,no,no,telephone,may,thu,260,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7179,"2022-10-08",37,technician,single,university.degree,no,yes,no,telephone,may,thu,199,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7180,"2022-10-08",35,unknown,married,basic.9y,no,no,no,telephone,may,thu,241,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7181,"2022-10-08",34,blue-collar,married,basic.9y,no,yes,no,telephone,may,thu,399,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7182,"2022-10-08",49,management,married,basic.4y,no,yes,no,telephone,may,thu,637,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7183,"2022-10-08",53,self-employed,married,basic.4y,no,no,no,telephone,may,thu,107,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7184,"2022-10-08",30,admin.,single,university.degree,no,yes,no,telephone,may,thu,68,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7185,"2022-10-08",41,admin.,single,university.degree,unknown,yes,no,telephone,may,thu,137,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7186,"2022-10-08",35,blue-collar,married,basic.4y,no,no,no,telephone,may,thu,182,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7187,"2022-10-08",55,housemaid,single,basic.9y,no,no,no,telephone,may,thu,553,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7188,"2022-10-08",27,blue-collar,married,basic.4y,no,yes,no,telephone,may,thu,310,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7189,"2022-10-08",30,admin.,single,university.degree,no,yes,no,telephone,may,thu,206,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7190,"2022-10-08",33,blue-collar,single,basic.4y,no,no,no,telephone,may,thu,119,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7191,"2022-10-08",33,admin.,married,high.school,no,yes,no,telephone,may,thu,764,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7192,"2022-10-08",49,admin.,married,basic.6y,unknown,no,yes,telephone,may,thu,29,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7193,"2022-10-08",39,services,married,basic.4y,no,no,no,telephone,may,thu,126,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7194,"2022-10-08",25,admin.,married,university.degree,no,yes,no,telephone,may,thu,251,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7195,"2022-10-08",35,self-employed,married,university.degree,no,no,yes,telephone,may,thu,188,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7196,"2022-10-08",37,unemployed,married,professional.course,no,no,no,telephone,may,thu,368,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7197,"2022-10-08",34,technician,married,professional.course,no,no,no,telephone,may,thu,414,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7198,"2022-10-08",32,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,128,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7199,"2022-10-08",38,services,single,high.school,no,yes,no,telephone,may,thu,685,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7200,"2022-10-08",37,self-employed,single,university.degree,unknown,yes,no,telephone,may,thu,512,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7201,"2022-10-08",31,services,single,high.school,unknown,yes,no,telephone,may,thu,102,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7202,"2022-10-08",45,admin.,married,basic.9y,no,yes,no,telephone,may,thu,1611,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7203,"2022-10-08",35,technician,single,university.degree,unknown,yes,no,telephone,may,thu,44,15,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7204,"2022-10-08",31,blue-collar,married,basic.9y,no,yes,no,telephone,may,thu,203,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7205,"2022-10-08",41,blue-collar,married,basic.6y,no,no,no,telephone,may,thu,74,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7206,"2022-10-08",29,self-employed,married,university.degree,no,no,no,telephone,may,thu,118,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7207,"2022-10-08",35,blue-collar,single,unknown,no,no,no,telephone,may,thu,725,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7208,"2022-10-08",50,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,thu,100,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7209,"2022-10-08",56,technician,married,professional.course,unknown,yes,no,telephone,may,thu,124,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7210,"2022-10-08",50,admin.,married,basic.9y,no,no,no,telephone,may,thu,752,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7211,"2022-10-08",25,self-employed,single,university.degree,no,no,no,telephone,may,thu,241,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7212,"2022-10-08",29,services,single,high.school,no,yes,no,telephone,may,thu,430,1,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7213,"2022-10-08",37,blue-collar,divorced,basic.9y,unknown,yes,no,telephone,may,thu,219,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7214,"2022-10-08",33,self-employed,single,university.degree,no,yes,no,telephone,may,thu,67,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7215,"2022-10-08",41,technician,single,professional.course,no,yes,no,telephone,may,thu,294,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7216,"2022-10-08",44,blue-collar,divorced,basic.6y,unknown,yes,no,telephone,may,thu,318,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7217,"2022-10-08",34,student,single,basic.4y,unknown,yes,no,telephone,may,thu,1185,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7218,"2022-10-08",38,admin.,single,basic.9y,no,no,yes,telephone,may,thu,110,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7219,"2022-10-08",37,services,married,high.school,no,yes,no,telephone,may,thu,58,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7220,"2022-10-08",35,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,386,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7221,"2022-10-08",52,unemployed,married,high.school,unknown,no,no,telephone,may,thu,218,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7222,"2022-10-08",40,technician,married,high.school,no,no,no,telephone,may,thu,191,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7223,"2022-10-08",43,technician,married,university.degree,unknown,no,no,telephone,may,thu,84,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7224,"2022-10-08",25,services,single,high.school,no,no,no,telephone,may,thu,130,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7225,"2022-10-08",53,services,married,high.school,unknown,no,no,telephone,may,thu,113,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7226,"2022-10-08",36,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,thu,744,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7227,"2022-10-08",59,admin.,married,high.school,no,yes,no,telephone,may,thu,76,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7228,"2022-10-08",46,entrepreneur,married,professional.course,unknown,yes,no,telephone,may,thu,187,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7229,"2022-10-08",57,self-employed,single,high.school,unknown,no,no,telephone,may,thu,587,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7230,"2022-10-08",45,technician,married,university.degree,no,yes,no,telephone,may,thu,336,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7231,"2022-10-08",36,management,married,university.degree,no,yes,no,telephone,may,thu,59,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7232,"2022-10-08",37,admin.,married,university.degree,no,yes,no,telephone,may,thu,72,12,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7233,"2022-10-08",31,technician,married,professional.course,no,no,no,telephone,may,thu,127,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7234,"2022-10-08",46,admin.,married,unknown,unknown,yes,no,telephone,may,thu,352,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7235,"2022-10-08",28,technician,married,high.school,no,yes,no,telephone,may,thu,347,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7236,"2022-10-08",52,blue-collar,married,basic.4y,no,yes,no,telephone,may,thu,286,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7237,"2022-10-08",59,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,668,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7238,"2022-10-08",59,admin.,married,university.degree,no,yes,yes,telephone,may,thu,29,9,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7239,"2022-10-08",38,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,211,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7240,"2022-10-08",25,services,single,unknown,no,yes,yes,telephone,may,thu,175,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7241,"2022-10-08",36,blue-collar,married,basic.9y,no,yes,no,telephone,may,thu,55,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7242,"2022-10-08",58,housemaid,married,basic.4y,unknown,no,no,telephone,may,thu,324,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7243,"2022-10-08",35,admin.,married,high.school,no,yes,no,telephone,may,thu,228,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7244,"2022-10-08",32,blue-collar,single,university.degree,no,yes,no,telephone,may,thu,128,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7245,"2022-10-08",27,student,single,high.school,unknown,yes,no,telephone,may,thu,38,9,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7246,"2022-10-08",34,technician,married,university.degree,no,no,no,telephone,may,thu,96,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7247,"2022-10-08",50,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,18,16,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7248,"2022-10-08",32,admin.,divorced,university.degree,no,yes,no,telephone,may,thu,147,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7249,"2022-10-08",37,admin.,single,university.degree,no,yes,no,telephone,may,thu,900,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7250,"2022-10-08",53,management,married,university.degree,unknown,unknown,unknown,telephone,may,thu,135,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7251,"2022-10-08",33,admin.,married,university.degree,no,yes,no,telephone,may,thu,56,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7252,"2022-10-08",46,blue-collar,married,basic.6y,no,yes,no,telephone,may,thu,39,22,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7253,"2022-10-08",40,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,144,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7254,"2022-10-08",51,unemployed,married,basic.4y,unknown,yes,no,telephone,may,thu,249,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7255,"2022-10-08",39,blue-collar,married,basic.6y,unknown,no,no,telephone,may,thu,286,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7256,"2022-10-08",42,blue-collar,married,basic.4y,no,yes,no,telephone,may,thu,384,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7257,"2022-10-08",52,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,183,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7258,"2022-10-08",37,technician,married,university.degree,no,yes,no,telephone,may,thu,240,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7259,"2022-10-08",36,admin.,married,university.degree,no,yes,yes,telephone,may,thu,238,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7260,"2022-10-08",35,blue-collar,married,basic.9y,unknown,no,no,telephone,may,thu,225,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7261,"2022-10-08",41,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,thu,151,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7262,"2022-10-08",33,services,single,high.school,no,no,no,telephone,may,thu,194,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7263,"2022-10-08",29,admin.,married,university.degree,no,no,no,telephone,may,thu,273,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7264,"2022-10-08",46,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,thu,431,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7265,"2022-10-08",30,blue-collar,married,basic.9y,no,yes,no,telephone,may,thu,57,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7266,"2022-10-08",55,retired,married,university.degree,unknown,yes,no,telephone,may,thu,720,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7267,"2022-10-08",42,admin.,single,university.degree,unknown,yes,no,telephone,may,thu,814,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7268,"2022-10-08",48,services,married,high.school,no,yes,no,telephone,may,thu,859,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7269,"2022-10-08",32,services,married,high.school,unknown,yes,yes,telephone,may,thu,184,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7270,"2022-10-08",56,management,divorced,basic.9y,unknown,yes,no,telephone,may,thu,313,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7271,"2022-10-08",48,technician,married,professional.course,unknown,no,no,telephone,may,thu,142,7,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7272,"2022-10-08",40,technician,married,basic.9y,unknown,no,yes,telephone,may,thu,171,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7273,"2022-10-08",38,technician,single,university.degree,no,yes,yes,telephone,may,thu,245,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7274,"2022-10-08",38,blue-collar,single,basic.6y,no,no,no,telephone,may,thu,238,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7275,"2022-10-08",41,blue-collar,married,professional.course,no,no,no,telephone,may,thu,53,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7276,"2022-10-08",39,management,married,basic.6y,no,yes,no,telephone,may,thu,364,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7277,"2022-10-08",45,admin.,married,basic.9y,unknown,no,yes,telephone,may,thu,191,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7278,"2022-10-08",46,self-employed,married,basic.4y,unknown,no,no,telephone,may,thu,35,24,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7279,"2022-10-08",54,blue-collar,married,university.degree,no,no,yes,telephone,may,thu,106,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7280,"2022-10-08",29,services,single,basic.4y,no,yes,no,telephone,may,thu,382,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7281,"2022-10-08",51,blue-collar,married,basic.9y,no,no,no,telephone,may,thu,191,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7282,"2022-10-08",41,entrepreneur,married,basic.9y,no,yes,no,telephone,may,thu,483,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7283,"2022-10-08",54,blue-collar,single,basic.4y,no,no,no,telephone,may,thu,253,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7284,"2022-10-08",31,admin.,divorced,university.degree,no,yes,yes,telephone,may,thu,328,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7285,"2022-10-08",54,admin.,married,university.degree,unknown,no,yes,telephone,may,thu,82,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7286,"2022-10-08",54,technician,divorced,university.degree,no,no,yes,telephone,may,thu,155,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7287,"2022-10-08",36,admin.,divorced,high.school,no,yes,no,telephone,may,thu,233,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7288,"2022-10-08",31,self-employed,married,university.degree,no,no,yes,telephone,may,thu,66,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7289,"2022-10-08",30,technician,single,university.degree,unknown,yes,no,telephone,may,thu,1109,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7290,"2022-10-08",58,retired,married,basic.9y,unknown,yes,no,telephone,may,thu,828,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,yes
+7291,"2022-10-08",55,admin.,married,high.school,no,no,yes,telephone,may,thu,134,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7292,"2022-10-08",37,blue-collar,single,basic.9y,unknown,no,no,telephone,may,thu,96,5,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7293,"2022-10-08",55,technician,married,university.degree,no,yes,no,telephone,may,thu,197,9,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7294,"2022-10-08",30,blue-collar,married,basic.9y,no,yes,yes,telephone,may,thu,645,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7295,"2022-10-08",39,blue-collar,married,basic.4y,no,yes,yes,telephone,may,thu,81,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7296,"2022-10-08",27,services,single,professional.course,no,no,no,telephone,may,thu,201,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7297,"2022-10-08",34,blue-collar,married,basic.6y,no,no,no,telephone,may,thu,248,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7298,"2022-10-08",53,services,married,high.school,unknown,no,no,telephone,may,thu,2260,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7299,"2022-10-08",52,retired,married,basic.9y,unknown,no,no,telephone,may,thu,91,7,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7300,"2022-10-08",51,blue-collar,divorced,basic.4y,no,yes,no,telephone,may,thu,660,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7301,"2022-10-08",49,technician,married,basic.9y,no,yes,no,telephone,may,thu,182,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7302,"2022-10-08",37,management,married,basic.9y,no,no,no,telephone,may,thu,30,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7303,"2022-10-08",53,retired,married,basic.4y,no,no,no,telephone,may,thu,101,23,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7304,"2022-10-08",53,housemaid,single,basic.4y,unknown,no,no,telephone,may,thu,54,15,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7305,"2022-10-08",59,management,married,basic.4y,unknown,yes,no,telephone,may,thu,374,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7306,"2022-10-08",55,technician,divorced,university.degree,unknown,no,no,telephone,may,thu,216,7,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7307,"2022-10-08",34,blue-collar,married,basic.9y,no,no,no,telephone,may,thu,76,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7308,"2022-10-08",37,services,married,high.school,unknown,yes,yes,telephone,may,thu,73,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7309,"2022-10-08",45,unknown,married,unknown,no,no,yes,telephone,may,thu,62,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7310,"2022-10-08",50,blue-collar,single,basic.4y,no,no,no,telephone,may,thu,152,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7311,"2022-10-08",35,services,married,high.school,no,no,no,telephone,may,thu,86,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7312,"2022-10-08",28,services,single,high.school,no,no,no,telephone,may,thu,95,6,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7313,"2022-10-08",36,entrepreneur,married,university.degree,no,yes,no,telephone,may,thu,23,15,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7314,"2022-10-08",37,housemaid,married,university.degree,unknown,yes,no,telephone,may,thu,25,11,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7315,"2022-10-08",35,services,single,high.school,no,yes,yes,telephone,may,thu,151,7,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7316,"2022-10-08",26,technician,single,professional.course,no,no,no,telephone,may,thu,95,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7317,"2022-10-08",32,services,married,high.school,no,yes,no,telephone,may,thu,52,8,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7318,"2022-10-08",32,blue-collar,married,basic.6y,no,yes,no,telephone,may,thu,52,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7319,"2022-10-08",59,admin.,single,university.degree,no,yes,yes,telephone,may,thu,421,3,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7320,"2022-10-08",45,blue-collar,married,basic.6y,unknown,yes,no,telephone,may,thu,322,11,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7321,"2022-10-08",30,services,single,high.school,no,yes,no,telephone,may,thu,52,4,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7322,"2022-10-08",27,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,340,7,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7323,"2022-10-08",48,admin.,divorced,high.school,no,yes,no,telephone,may,thu,139,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7324,"2022-10-08",59,blue-collar,married,basic.4y,unknown,no,no,telephone,may,thu,763,2,999,0,nonexistent,1.1,"93 994",-36.4,"4.86",5191,no
+7325,"2022-10-08",35,blue-collar,married,basic.9y,unknown,no,no,telephone,may,fri,288,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7326,"2022-10-08",35,blue-collar,single,university.degree,no,yes,yes,telephone,may,fri,231,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7327,"2022-10-08",37,blue-collar,married,basic.4y,no,no,no,telephone,may,fri,120,17,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7328,"2022-10-08",38,blue-collar,married,high.school,unknown,yes,no,telephone,may,fri,203,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7329,"2022-10-08",39,blue-collar,married,basic.9y,no,no,yes,telephone,may,fri,67,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7330,"2022-10-08",42,blue-collar,married,unknown,unknown,unknown,unknown,telephone,may,fri,311,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7331,"2022-10-08",57,technician,married,university.degree,no,no,no,telephone,may,fri,50,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7332,"2022-10-08",42,housemaid,single,basic.4y,no,yes,no,telephone,may,fri,86,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7333,"2022-10-08",25,blue-collar,single,high.school,no,yes,no,telephone,may,fri,139,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7334,"2022-10-08",54,self-employed,married,professional.course,unknown,no,no,telephone,may,fri,235,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7335,"2022-10-08",46,management,married,basic.9y,no,no,no,telephone,may,fri,43,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7336,"2022-10-08",34,entrepreneur,married,basic.4y,no,yes,no,telephone,may,fri,233,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7337,"2022-10-08",44,blue-collar,married,high.school,no,yes,no,telephone,may,fri,230,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7338,"2022-10-08",42,services,married,professional.course,no,no,no,telephone,may,fri,177,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7339,"2022-10-08",42,services,married,professional.course,no,yes,no,telephone,may,fri,149,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7340,"2022-10-08",58,blue-collar,married,basic.4y,unknown,yes,yes,telephone,may,fri,422,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7341,"2022-10-08",41,blue-collar,married,basic.9y,unknown,no,no,telephone,may,fri,121,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7342,"2022-10-08",41,management,single,high.school,no,yes,no,telephone,may,fri,324,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7343,"2022-10-08",48,blue-collar,married,basic.6y,no,no,no,telephone,may,fri,287,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7344,"2022-10-08",33,blue-collar,single,basic.9y,no,yes,yes,telephone,may,fri,58,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7345,"2022-10-08",58,services,married,basic.4y,no,no,no,telephone,may,fri,226,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7346,"2022-10-08",42,admin.,single,basic.9y,unknown,no,no,telephone,may,fri,153,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7347,"2022-10-08",52,self-employed,married,university.degree,no,no,no,telephone,may,fri,151,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7348,"2022-10-08",31,technician,single,university.degree,no,yes,no,telephone,may,fri,57,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7349,"2022-10-08",39,admin.,single,university.degree,unknown,no,no,telephone,may,fri,31,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7350,"2022-10-08",35,blue-collar,married,basic.4y,unknown,no,no,telephone,may,fri,118,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7351,"2022-10-08",28,services,married,high.school,no,yes,no,telephone,may,fri,133,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7352,"2022-10-08",32,blue-collar,single,basic.9y,no,no,no,telephone,may,fri,171,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7353,"2022-10-08",37,technician,single,university.degree,no,no,no,telephone,may,fri,62,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7354,"2022-10-08",36,blue-collar,single,basic.9y,unknown,no,no,telephone,may,fri,45,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7355,"2022-10-08",51,blue-collar,married,basic.6y,no,yes,no,telephone,may,fri,91,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7356,"2022-10-08",34,admin.,married,high.school,no,no,no,telephone,may,fri,172,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7357,"2022-10-08",40,admin.,married,high.school,no,yes,yes,telephone,may,fri,498,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7358,"2022-10-08",47,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,85,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7359,"2022-10-08",43,admin.,married,university.degree,no,yes,no,telephone,may,fri,224,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7360,"2022-10-08",34,housemaid,divorced,high.school,no,no,no,telephone,may,fri,553,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7361,"2022-10-08",30,admin.,married,university.degree,no,yes,no,telephone,may,fri,242,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7362,"2022-10-08",35,blue-collar,divorced,basic.9y,no,no,yes,telephone,may,fri,192,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7363,"2022-10-08",45,technician,married,professional.course,unknown,no,no,telephone,may,fri,207,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7364,"2022-10-08",52,blue-collar,married,basic.4y,unknown,no,no,telephone,may,fri,711,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7365,"2022-10-08",26,admin.,single,high.school,no,yes,no,telephone,may,fri,160,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7366,"2022-10-08",36,admin.,single,university.degree,no,no,no,telephone,may,fri,147,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7367,"2022-10-08",42,admin.,single,university.degree,no,yes,no,telephone,may,fri,87,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7368,"2022-10-08",30,admin.,married,high.school,no,no,no,telephone,may,fri,199,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7369,"2022-10-08",37,blue-collar,unknown,basic.6y,unknown,no,yes,telephone,may,fri,34,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7370,"2022-10-08",35,blue-collar,single,basic.9y,no,yes,no,telephone,may,fri,65,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7371,"2022-10-08",33,entrepreneur,married,university.degree,no,yes,no,telephone,may,fri,150,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7372,"2022-10-08",38,blue-collar,married,basic.9y,no,yes,yes,telephone,may,fri,57,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7373,"2022-10-08",34,admin.,single,university.degree,no,no,no,telephone,may,fri,234,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7374,"2022-10-08",28,blue-collar,single,basic.9y,no,no,no,telephone,may,fri,521,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7375,"2022-10-08",33,admin.,married,university.degree,no,yes,no,telephone,may,fri,555,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7376,"2022-10-08",39,admin.,married,university.degree,no,yes,no,telephone,may,fri,86,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7377,"2022-10-08",26,blue-collar,single,basic.9y,no,no,no,telephone,may,fri,204,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7378,"2022-10-08",36,housemaid,married,high.school,no,no,no,telephone,may,fri,222,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7379,"2022-10-08",35,admin.,single,high.school,no,no,no,telephone,may,fri,162,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7380,"2022-10-08",33,self-employed,married,basic.6y,no,no,no,telephone,may,fri,648,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7381,"2022-10-08",34,services,married,high.school,no,no,yes,telephone,may,fri,659,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7382,"2022-10-08",27,student,single,university.degree,unknown,no,no,telephone,may,fri,867,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7383,"2022-10-08",41,admin.,single,high.school,no,no,yes,telephone,may,fri,96,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7384,"2022-10-08",34,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,fri,123,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7385,"2022-10-08",25,admin.,married,university.degree,no,no,no,telephone,may,fri,56,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7386,"2022-10-08",34,unemployed,married,unknown,no,yes,no,telephone,may,fri,54,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7387,"2022-10-08",50,admin.,married,university.degree,no,yes,no,telephone,may,fri,152,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7388,"2022-10-08",25,blue-collar,married,basic.6y,no,no,no,telephone,may,fri,25,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7389,"2022-10-08",26,admin.,married,high.school,unknown,no,no,telephone,may,fri,120,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7390,"2022-10-08",37,self-employed,divorced,university.degree,no,yes,no,telephone,may,fri,491,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7391,"2022-10-08",49,entrepreneur,married,university.degree,unknown,no,no,telephone,may,fri,379,17,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7392,"2022-10-08",37,blue-collar,married,basic.9y,unknown,no,no,telephone,may,fri,343,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7393,"2022-10-08",32,unemployed,single,high.school,unknown,yes,yes,telephone,may,fri,289,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7394,"2022-10-08",50,blue-collar,married,basic.4y,unknown,no,no,telephone,may,fri,574,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7395,"2022-10-08",51,services,married,high.school,unknown,yes,no,telephone,may,fri,85,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7396,"2022-10-08",55,unknown,married,unknown,unknown,no,no,telephone,may,fri,319,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7397,"2022-10-08",49,services,married,high.school,no,yes,yes,telephone,may,fri,108,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7398,"2022-10-08",40,services,married,high.school,no,no,yes,telephone,may,fri,762,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7399,"2022-10-08",52,blue-collar,single,unknown,unknown,no,no,telephone,may,fri,80,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7400,"2022-10-08",55,unknown,married,unknown,unknown,yes,no,telephone,may,fri,449,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7401,"2022-10-08",38,admin.,single,university.degree,no,yes,no,telephone,may,fri,198,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7402,"2022-10-08",52,self-employed,married,university.degree,no,yes,no,telephone,may,fri,135,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7403,"2022-10-08",34,services,married,high.school,no,yes,no,telephone,may,fri,69,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7404,"2022-10-08",44,admin.,divorced,university.degree,unknown,yes,no,telephone,may,fri,55,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7405,"2022-10-08",48,blue-collar,married,basic.6y,no,yes,no,telephone,may,fri,290,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7406,"2022-10-08",26,technician,married,basic.6y,no,yes,no,telephone,may,fri,138,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7407,"2022-10-08",28,services,married,unknown,no,no,yes,telephone,may,fri,135,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7408,"2022-10-08",31,entrepreneur,married,basic.9y,unknown,yes,no,telephone,may,fri,70,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7409,"2022-10-08",58,housemaid,married,basic.4y,unknown,yes,no,telephone,may,fri,652,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7410,"2022-10-08",37,self-employed,married,basic.9y,no,no,no,telephone,may,fri,327,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7411,"2022-10-08",43,housemaid,married,basic.4y,unknown,no,no,telephone,may,fri,246,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7412,"2022-10-08",37,technician,single,university.degree,no,yes,no,telephone,may,fri,295,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7413,"2022-10-08",37,technician,single,university.degree,no,no,no,telephone,may,fri,255,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7414,"2022-10-08",35,services,single,high.school,no,yes,no,telephone,may,fri,523,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7415,"2022-10-08",30,blue-collar,single,basic.4y,unknown,no,no,telephone,may,fri,130,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7416,"2022-10-08",34,services,married,high.school,no,no,no,telephone,may,fri,103,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7417,"2022-10-08",30,services,married,high.school,unknown,no,no,telephone,may,fri,205,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7418,"2022-10-08",37,technician,married,professional.course,unknown,unknown,unknown,telephone,may,fri,92,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7419,"2022-10-08",38,blue-collar,married,high.school,no,yes,no,telephone,may,fri,107,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7420,"2022-10-08",30,admin.,married,university.degree,no,no,no,telephone,may,fri,864,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7421,"2022-10-08",25,technician,single,professional.course,no,yes,no,telephone,may,fri,65,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7422,"2022-10-08",41,admin.,divorced,high.school,no,no,no,telephone,may,fri,556,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7423,"2022-10-08",25,student,single,high.school,no,no,no,telephone,may,fri,115,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7424,"2022-10-08",26,technician,married,professional.course,no,no,no,telephone,may,fri,180,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7425,"2022-10-08",37,admin.,married,university.degree,no,no,no,telephone,may,fri,87,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7426,"2022-10-08",44,management,divorced,basic.9y,unknown,no,no,telephone,may,fri,70,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7427,"2022-10-08",39,technician,married,professional.course,no,yes,no,telephone,may,fri,435,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7428,"2022-10-08",49,admin.,divorced,high.school,no,no,no,telephone,may,fri,132,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7429,"2022-10-08",41,admin.,married,high.school,no,no,no,telephone,may,fri,312,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7430,"2022-10-08",33,admin.,married,high.school,no,no,no,telephone,may,fri,283,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7431,"2022-10-08",30,admin.,married,university.degree,no,yes,yes,telephone,may,fri,182,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7432,"2022-10-08",37,blue-collar,single,unknown,unknown,no,no,telephone,may,fri,379,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7433,"2022-10-08",33,management,married,basic.9y,unknown,no,no,telephone,may,fri,127,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7434,"2022-10-08",35,management,single,unknown,no,no,no,telephone,may,fri,126,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7435,"2022-10-08",35,housemaid,married,basic.4y,no,no,no,telephone,may,fri,91,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7436,"2022-10-08",45,blue-collar,divorced,basic.9y,no,unknown,unknown,telephone,may,fri,78,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7437,"2022-10-08",40,technician,married,university.degree,no,no,no,telephone,may,fri,417,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7438,"2022-10-08",43,blue-collar,divorced,basic.4y,unknown,yes,no,telephone,may,fri,618,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7439,"2022-10-08",39,technician,married,university.degree,unknown,yes,no,telephone,may,fri,407,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7440,"2022-10-08",32,technician,single,university.degree,no,yes,no,telephone,may,fri,160,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7441,"2022-10-08",45,blue-collar,divorced,basic.9y,no,no,no,telephone,may,fri,171,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7442,"2022-10-08",29,technician,married,professional.course,no,no,no,telephone,may,fri,210,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7443,"2022-10-08",36,housemaid,married,high.school,no,yes,yes,telephone,may,fri,135,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7444,"2022-10-08",35,blue-collar,divorced,basic.9y,no,yes,no,telephone,may,fri,461,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7445,"2022-10-08",25,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,fri,763,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7446,"2022-10-08",27,admin.,single,high.school,unknown,no,no,telephone,may,fri,682,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7447,"2022-10-08",40,admin.,married,high.school,no,no,no,telephone,may,fri,171,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7448,"2022-10-08",46,housemaid,married,basic.4y,no,no,no,telephone,may,fri,68,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7449,"2022-10-08",30,services,single,professional.course,no,yes,no,telephone,may,fri,120,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7450,"2022-10-08",52,blue-collar,single,unknown,unknown,no,no,telephone,may,fri,67,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7451,"2022-10-08",36,admin.,married,high.school,no,no,no,telephone,may,fri,381,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7452,"2022-10-08",32,blue-collar,married,professional.course,no,no,no,telephone,may,fri,278,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7453,"2022-10-08",43,blue-collar,married,basic.4y,unknown,no,yes,telephone,may,fri,126,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7454,"2022-10-08",26,blue-collar,single,basic.9y,no,yes,no,telephone,may,fri,149,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7455,"2022-10-08",56,technician,married,basic.4y,unknown,no,no,telephone,may,fri,95,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7456,"2022-10-08",32,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,197,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7457,"2022-10-08",43,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,fri,38,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7458,"2022-10-08",40,management,divorced,university.degree,unknown,yes,yes,telephone,may,fri,201,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7459,"2022-10-08",30,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,fri,176,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7460,"2022-10-08",26,admin.,married,high.school,no,yes,no,telephone,may,fri,61,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7461,"2022-10-08",42,unemployed,divorced,high.school,no,no,no,telephone,may,fri,275,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7462,"2022-10-08",32,blue-collar,married,basic.4y,no,no,no,telephone,may,fri,201,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7463,"2022-10-08",33,admin.,married,university.degree,no,no,no,telephone,may,fri,724,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7464,"2022-10-08",42,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,fri,143,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7465,"2022-10-08",43,admin.,married,university.degree,no,no,no,telephone,may,fri,197,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7466,"2022-10-08",26,admin.,single,high.school,no,no,yes,telephone,may,fri,143,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7467,"2022-10-08",41,blue-collar,married,basic.4y,no,yes,no,telephone,may,fri,153,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7468,"2022-10-08",39,technician,married,professional.course,no,no,no,telephone,may,fri,197,12,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7469,"2022-10-08",26,services,single,unknown,no,yes,no,telephone,may,fri,536,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7470,"2022-10-08",48,blue-collar,married,professional.course,no,no,no,telephone,may,fri,120,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7471,"2022-10-08",47,blue-collar,married,basic.6y,unknown,yes,no,telephone,may,fri,604,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7472,"2022-10-08",41,admin.,married,university.degree,no,no,no,telephone,may,fri,254,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7473,"2022-10-08",37,blue-collar,single,basic.9y,unknown,no,no,telephone,may,fri,121,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7474,"2022-10-08",60,admin.,married,high.school,no,yes,no,telephone,may,fri,118,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7475,"2022-10-08",24,technician,single,professional.course,unknown,yes,yes,telephone,may,fri,447,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7476,"2022-10-08",52,services,married,high.school,unknown,unknown,unknown,telephone,may,fri,854,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7477,"2022-10-08",44,blue-collar,married,basic.4y,no,yes,no,telephone,may,fri,151,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7478,"2022-10-08",30,services,married,high.school,no,yes,yes,telephone,may,fri,114,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7479,"2022-10-08",50,technician,married,professional.course,no,yes,no,telephone,may,fri,855,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7480,"2022-10-08",30,blue-collar,married,basic.9y,unknown,no,no,telephone,may,fri,115,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7481,"2022-10-08",30,services,married,high.school,no,no,no,telephone,may,fri,274,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7482,"2022-10-08",35,blue-collar,married,unknown,no,no,no,telephone,may,fri,100,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7483,"2022-10-08",27,services,single,high.school,no,no,no,telephone,may,fri,156,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7484,"2022-10-08",53,technician,married,professional.course,unknown,yes,no,telephone,may,fri,153,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7485,"2022-10-08",53,technician,married,professional.course,unknown,yes,no,telephone,may,fri,264,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7486,"2022-10-08",57,services,divorced,high.school,no,no,no,telephone,may,fri,251,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7487,"2022-10-08",31,services,married,high.school,no,no,no,telephone,may,fri,1269,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7488,"2022-10-08",25,admin.,single,unknown,no,no,no,telephone,may,fri,48,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7489,"2022-10-08",44,technician,married,professional.course,unknown,no,no,telephone,may,fri,119,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7490,"2022-10-08",47,admin.,single,university.degree,no,no,no,telephone,may,fri,104,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7491,"2022-10-08",28,technician,single,professional.course,no,yes,no,telephone,may,fri,65,13,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7492,"2022-10-08",44,technician,married,high.school,no,no,no,telephone,may,fri,75,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7493,"2022-10-08",46,blue-collar,divorced,basic.4y,no,yes,no,telephone,may,fri,157,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7494,"2022-10-08",38,blue-collar,single,basic.9y,unknown,yes,no,telephone,may,fri,565,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7495,"2022-10-08",29,admin.,married,university.degree,no,no,no,telephone,may,fri,165,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7496,"2022-10-08",46,unemployed,divorced,basic.9y,no,no,no,telephone,may,fri,314,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7497,"2022-10-08",41,admin.,divorced,high.school,no,yes,no,telephone,may,fri,109,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7498,"2022-10-08",38,blue-collar,single,basic.9y,no,yes,no,telephone,may,fri,219,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7499,"2022-10-08",25,admin.,single,unknown,no,no,no,telephone,may,fri,60,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7500,"2022-10-08",24,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,fri,385,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7501,"2022-10-08",30,admin.,married,unknown,no,yes,no,telephone,may,fri,96,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7502,"2022-10-08",37,admin.,married,high.school,no,no,no,telephone,may,fri,868,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7503,"2022-10-08",60,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,fri,161,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7504,"2022-10-08",38,technician,married,professional.course,no,no,no,telephone,may,fri,448,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7505,"2022-10-08",33,admin.,married,unknown,no,unknown,unknown,telephone,may,fri,137,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7506,"2022-10-08",47,admin.,married,university.degree,unknown,yes,no,telephone,may,fri,155,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7507,"2022-10-08",45,unknown,married,unknown,no,no,no,telephone,may,fri,633,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7508,"2022-10-08",55,technician,married,university.degree,no,no,no,telephone,may,fri,58,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7509,"2022-10-08",31,blue-collar,married,basic.9y,no,yes,no,telephone,may,fri,127,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7510,"2022-10-08",37,admin.,divorced,high.school,unknown,no,no,telephone,may,fri,99,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7511,"2022-10-08",46,technician,married,university.degree,no,yes,no,telephone,may,fri,170,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7512,"2022-10-08",39,admin.,married,university.degree,no,no,no,telephone,may,fri,208,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7513,"2022-10-08",30,blue-collar,married,unknown,unknown,yes,yes,telephone,may,fri,129,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7514,"2022-10-08",46,management,married,basic.9y,no,no,no,telephone,may,fri,134,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7515,"2022-10-08",43,admin.,married,university.degree,no,no,no,telephone,may,fri,129,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7516,"2022-10-08",28,technician,single,high.school,no,no,no,telephone,may,fri,184,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7517,"2022-10-08",53,self-employed,married,university.degree,no,no,no,telephone,may,fri,371,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7518,"2022-10-08",54,services,married,unknown,no,no,no,telephone,may,fri,270,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7519,"2022-10-08",28,services,single,high.school,no,no,no,telephone,may,fri,145,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7520,"2022-10-08",33,technician,married,high.school,no,yes,no,telephone,may,fri,136,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7521,"2022-10-08",36,unemployed,married,basic.9y,no,no,no,telephone,may,fri,363,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7522,"2022-10-08",38,blue-collar,married,unknown,no,yes,no,telephone,may,fri,63,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7523,"2022-10-08",59,entrepreneur,divorced,high.school,no,no,no,telephone,may,fri,143,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7524,"2022-10-08",36,blue-collar,single,basic.6y,no,yes,no,telephone,may,fri,56,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7525,"2022-10-08",43,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,fri,226,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7526,"2022-10-08",49,blue-collar,married,basic.4y,unknown,yes,yes,telephone,may,fri,35,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7527,"2022-10-08",36,blue-collar,married,basic.9y,no,no,yes,telephone,may,fri,298,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7528,"2022-10-08",47,self-employed,married,unknown,unknown,yes,no,telephone,may,fri,158,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7529,"2022-10-08",32,admin.,single,university.degree,no,no,no,telephone,may,fri,47,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7530,"2022-10-08",49,self-employed,single,basic.9y,no,yes,yes,telephone,may,fri,827,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7531,"2022-10-08",34,admin.,married,university.degree,no,no,no,telephone,may,fri,83,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7532,"2022-10-08",37,admin.,single,university.degree,no,no,yes,telephone,may,fri,570,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7533,"2022-10-08",41,admin.,married,professional.course,unknown,yes,no,telephone,may,fri,72,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7534,"2022-10-08",23,services,single,high.school,no,no,no,telephone,may,fri,557,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7535,"2022-10-08",26,technician,married,professional.course,no,no,no,telephone,may,fri,59,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7536,"2022-10-08",54,admin.,married,basic.4y,unknown,unknown,unknown,telephone,may,fri,296,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7537,"2022-10-08",46,admin.,married,university.degree,unknown,no,no,telephone,may,fri,38,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7538,"2022-10-08",31,admin.,married,high.school,no,no,no,telephone,may,fri,170,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7539,"2022-10-08",37,admin.,married,high.school,no,yes,no,telephone,may,fri,422,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7540,"2022-10-08",53,admin.,single,university.degree,unknown,unknown,unknown,telephone,may,fri,230,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7541,"2022-10-08",54,housemaid,divorced,basic.4y,unknown,yes,no,telephone,may,fri,141,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7542,"2022-10-08",31,services,single,high.school,no,no,no,telephone,may,fri,76,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7543,"2022-10-08",41,entrepreneur,married,university.degree,no,yes,no,telephone,may,fri,691,10,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7544,"2022-10-08",30,admin.,married,university.degree,no,yes,no,telephone,may,fri,238,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7545,"2022-10-08",56,blue-collar,married,basic.4y,unknown,no,no,telephone,may,fri,1097,15,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7546,"2022-10-08",33,services,single,high.school,no,yes,no,telephone,may,fri,111,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7547,"2022-10-08",33,admin.,married,high.school,no,no,yes,telephone,may,fri,84,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7548,"2022-10-08",34,admin.,married,university.degree,no,no,no,telephone,may,fri,371,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7549,"2022-10-08",34,admin.,married,university.degree,no,yes,no,telephone,may,fri,103,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7550,"2022-10-08",39,blue-collar,married,basic.6y,no,no,no,telephone,may,fri,206,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7551,"2022-10-08",43,blue-collar,married,basic.9y,unknown,no,no,telephone,may,fri,1500,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7552,"2022-10-08",30,services,married,high.school,no,yes,no,telephone,may,fri,265,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7553,"2022-10-08",55,blue-collar,married,basic.6y,unknown,no,no,telephone,may,fri,567,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7554,"2022-10-08",28,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,254,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7555,"2022-10-08",59,technician,married,unknown,no,no,no,telephone,may,fri,464,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7556,"2022-10-08",37,blue-collar,married,high.school,no,no,no,telephone,may,fri,1236,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7557,"2022-10-08",33,blue-collar,married,basic.4y,no,no,no,telephone,may,fri,33,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7558,"2022-10-08",33,technician,single,professional.course,unknown,yes,no,telephone,may,fri,613,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7559,"2022-10-08",25,blue-collar,single,high.school,no,no,no,telephone,may,fri,1212,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7560,"2022-10-08",32,admin.,single,university.degree,unknown,no,no,telephone,may,fri,96,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7561,"2022-10-08",48,self-employed,married,high.school,unknown,yes,no,telephone,may,fri,171,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7562,"2022-10-08",43,technician,married,professional.course,unknown,yes,no,telephone,may,fri,53,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7563,"2022-10-08",38,blue-collar,single,basic.9y,unknown,no,no,telephone,may,fri,91,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7564,"2022-10-08",42,technician,married,professional.course,unknown,yes,no,telephone,may,fri,185,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7565,"2022-10-08",43,technician,divorced,professional.course,no,yes,no,telephone,may,fri,201,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7566,"2022-10-08",41,technician,single,university.degree,unknown,no,yes,telephone,may,fri,169,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7567,"2022-10-08",46,admin.,married,high.school,no,no,no,telephone,may,fri,515,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7568,"2022-10-08",44,technician,married,professional.course,unknown,yes,no,telephone,may,fri,388,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7569,"2022-10-08",35,blue-collar,married,basic.6y,no,yes,no,telephone,may,fri,178,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7570,"2022-10-08",53,housemaid,divorced,basic.4y,no,yes,no,telephone,may,fri,422,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7571,"2022-10-08",29,services,married,high.school,no,no,no,telephone,may,fri,76,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7572,"2022-10-08",29,technician,married,professional.course,no,no,no,telephone,may,fri,886,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7573,"2022-10-08",51,retired,divorced,basic.9y,no,no,no,telephone,may,fri,296,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7574,"2022-10-08",33,technician,unknown,professional.course,unknown,yes,no,telephone,may,fri,378,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7575,"2022-10-08",41,technician,single,professional.course,no,unknown,unknown,telephone,may,fri,136,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7576,"2022-10-08",33,services,married,basic.4y,no,no,no,telephone,may,fri,58,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7577,"2022-10-08",35,admin.,married,university.degree,no,no,no,telephone,may,fri,60,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7578,"2022-10-08",56,blue-collar,married,professional.course,no,unknown,unknown,telephone,may,fri,340,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7579,"2022-10-08",36,blue-collar,single,basic.9y,no,no,no,telephone,may,fri,522,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7580,"2022-10-08",39,management,married,basic.9y,no,yes,no,telephone,may,fri,159,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7581,"2022-10-08",25,admin.,single,high.school,no,no,no,telephone,may,fri,113,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7582,"2022-10-08",26,services,single,high.school,no,yes,no,telephone,may,fri,123,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7583,"2022-10-08",46,blue-collar,married,basic.9y,unknown,no,no,telephone,may,fri,306,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7584,"2022-10-08",40,admin.,married,professional.course,no,no,yes,telephone,may,fri,148,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7585,"2022-10-08",32,technician,married,professional.course,no,yes,no,telephone,may,fri,322,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7586,"2022-10-08",59,retired,single,high.school,no,no,no,telephone,may,fri,475,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7587,"2022-10-08",38,admin.,divorced,high.school,no,yes,no,telephone,may,fri,224,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7588,"2022-10-08",30,blue-collar,married,basic.6y,no,no,no,telephone,may,fri,88,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7589,"2022-10-08",48,entrepreneur,married,unknown,unknown,no,no,telephone,may,fri,509,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7590,"2022-10-08",49,blue-collar,divorced,high.school,no,no,no,telephone,may,fri,152,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7591,"2022-10-08",47,unknown,married,unknown,unknown,no,no,telephone,may,fri,147,1,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7592,"2022-10-08",37,management,married,university.degree,no,yes,no,telephone,may,fri,97,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7593,"2022-10-08",39,blue-collar,divorced,basic.9y,no,yes,no,telephone,may,fri,113,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7594,"2022-10-08",31,admin.,married,basic.9y,no,yes,no,telephone,may,fri,465,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7595,"2022-10-08",31,admin.,married,university.degree,no,no,no,telephone,may,fri,294,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7596,"2022-10-08",48,admin.,divorced,university.degree,no,yes,no,telephone,may,fri,224,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7597,"2022-10-08",41,services,married,high.school,unknown,yes,no,telephone,may,fri,58,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7598,"2022-10-08",29,services,married,unknown,no,yes,no,telephone,may,fri,137,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7599,"2022-10-08",49,entrepreneur,married,university.degree,no,yes,no,telephone,may,fri,142,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7600,"2022-10-08",31,blue-collar,single,basic.9y,unknown,no,no,telephone,may,fri,312,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7601,"2022-10-08",48,admin.,married,professional.course,unknown,yes,no,telephone,may,fri,34,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7602,"2022-10-08",38,services,divorced,basic.6y,no,no,no,telephone,may,fri,825,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7603,"2022-10-08",46,blue-collar,married,basic.9y,no,yes,no,telephone,may,fri,116,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7604,"2022-10-08",38,self-employed,married,basic.9y,no,yes,no,telephone,may,fri,103,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7605,"2022-10-08",43,management,married,unknown,no,no,no,telephone,may,fri,38,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7606,"2022-10-08",53,admin.,married,basic.9y,unknown,yes,no,telephone,may,fri,168,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7607,"2022-10-08",36,blue-collar,married,basic.9y,no,yes,no,telephone,may,fri,31,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7608,"2022-10-08",34,management,married,university.degree,no,no,no,telephone,may,fri,66,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7609,"2022-10-08",41,blue-collar,married,basic.4y,no,no,no,telephone,may,fri,512,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7610,"2022-10-08",35,blue-collar,married,basic.9y,no,yes,no,telephone,may,fri,188,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7611,"2022-10-08",38,technician,single,university.degree,no,unknown,unknown,telephone,may,fri,214,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7612,"2022-10-08",49,entrepreneur,married,university.degree,unknown,yes,yes,telephone,may,fri,65,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7613,"2022-10-08",37,admin.,married,high.school,no,no,no,telephone,may,fri,80,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7614,"2022-10-08",49,blue-collar,married,basic.6y,no,yes,no,telephone,may,fri,1980,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7615,"2022-10-08",36,services,married,high.school,unknown,no,no,telephone,may,fri,358,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7616,"2022-10-08",54,management,married,basic.9y,no,yes,no,telephone,may,fri,398,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7617,"2022-10-08",29,blue-collar,married,high.school,no,yes,yes,telephone,may,fri,62,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7618,"2022-10-08",43,technician,married,professional.course,no,no,no,telephone,may,fri,265,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7619,"2022-10-08",52,self-employed,married,university.degree,unknown,no,no,telephone,may,fri,618,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7620,"2022-10-08",31,management,single,professional.course,no,yes,no,telephone,may,fri,256,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7621,"2022-10-08",48,technician,single,unknown,no,yes,no,telephone,may,fri,722,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7622,"2022-10-08",39,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,199,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7623,"2022-10-08",38,services,married,high.school,no,no,no,telephone,may,fri,510,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7624,"2022-10-08",37,admin.,single,university.degree,no,yes,no,telephone,may,fri,355,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7625,"2022-10-08",47,technician,married,basic.9y,no,no,no,telephone,may,fri,150,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7626,"2022-10-08",39,blue-collar,married,basic.4y,no,yes,no,telephone,may,fri,159,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7627,"2022-10-08",29,management,single,university.degree,no,no,no,telephone,may,fri,170,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7628,"2022-10-08",34,housemaid,divorced,basic.6y,no,no,no,telephone,may,fri,243,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7629,"2022-10-08",52,self-employed,single,university.degree,unknown,yes,yes,telephone,may,fri,140,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7630,"2022-10-08",29,blue-collar,single,basic.9y,no,no,no,telephone,may,fri,267,14,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7631,"2022-10-08",36,blue-collar,married,unknown,unknown,yes,no,telephone,may,fri,219,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7632,"2022-10-08",54,blue-collar,married,unknown,unknown,no,no,telephone,may,fri,67,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7633,"2022-10-08",33,technician,unknown,professional.course,unknown,no,no,telephone,may,fri,112,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7634,"2022-10-08",47,admin.,married,university.degree,unknown,no,no,telephone,may,fri,216,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7635,"2022-10-08",59,blue-collar,divorced,basic.4y,no,no,no,telephone,may,fri,167,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7636,"2022-10-08",38,technician,divorced,professional.course,no,yes,yes,telephone,may,fri,78,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7637,"2022-10-08",45,blue-collar,married,basic.9y,unknown,no,no,telephone,may,fri,222,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7638,"2022-10-08",41,technician,single,professional.course,no,no,no,telephone,may,fri,363,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7639,"2022-10-08",44,services,married,basic.9y,no,yes,no,telephone,may,fri,109,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7640,"2022-10-08",32,services,single,high.school,no,no,no,telephone,may,fri,67,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7641,"2022-10-08",55,technician,married,university.degree,no,no,no,telephone,may,fri,41,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7642,"2022-10-08",47,technician,divorced,high.school,no,no,no,telephone,may,fri,156,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7643,"2022-10-08",32,blue-collar,married,basic.9y,no,yes,no,telephone,may,fri,108,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7644,"2022-10-08",27,blue-collar,married,basic.6y,no,yes,no,telephone,may,fri,408,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7645,"2022-10-08",35,blue-collar,married,high.school,no,yes,yes,telephone,may,fri,272,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7646,"2022-10-08",59,technician,married,basic.9y,no,no,no,telephone,may,fri,135,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7647,"2022-10-08",35,technician,married,basic.6y,no,no,no,telephone,may,fri,107,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7648,"2022-10-08",33,self-employed,single,basic.4y,no,yes,no,telephone,may,fri,742,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7649,"2022-10-08",36,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,fri,166,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7650,"2022-10-08",37,blue-collar,married,basic.9y,unknown,yes,yes,telephone,may,fri,376,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7651,"2022-10-08",56,admin.,married,high.school,no,yes,no,telephone,may,fri,138,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7652,"2022-10-08",30,blue-collar,single,basic.9y,unknown,no,no,telephone,may,fri,16,18,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7653,"2022-10-08",42,services,married,high.school,no,no,no,telephone,may,fri,984,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7654,"2022-10-08",44,technician,married,high.school,no,yes,no,telephone,may,fri,363,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7655,"2022-10-08",43,management,married,university.degree,no,yes,no,telephone,may,fri,339,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7656,"2022-10-08",29,housemaid,married,high.school,no,no,no,telephone,may,fri,161,12,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7657,"2022-10-08",40,admin.,single,university.degree,no,yes,no,telephone,may,fri,28,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7658,"2022-10-08",49,management,divorced,university.degree,no,no,no,telephone,may,fri,170,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7659,"2022-10-08",33,admin.,single,high.school,no,yes,no,telephone,may,fri,66,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7660,"2022-10-08",41,housemaid,married,university.degree,unknown,no,no,telephone,may,fri,199,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7661,"2022-10-08",27,services,single,high.school,no,yes,no,telephone,may,fri,274,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7662,"2022-10-08",45,services,divorced,high.school,no,no,no,telephone,may,fri,136,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7663,"2022-10-08",34,housemaid,single,university.degree,no,no,no,telephone,may,fri,62,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7664,"2022-10-08",35,technician,single,university.degree,no,no,no,telephone,may,fri,58,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7665,"2022-10-08",45,unknown,single,basic.4y,no,yes,no,telephone,may,fri,189,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7666,"2022-10-08",35,self-employed,married,basic.9y,no,yes,yes,telephone,may,fri,135,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7667,"2022-10-08",34,blue-collar,married,basic.9y,no,yes,no,telephone,may,fri,319,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7668,"2022-10-08",47,admin.,married,high.school,no,yes,no,telephone,may,fri,352,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7669,"2022-10-08",27,technician,single,professional.course,no,no,no,telephone,may,fri,230,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7670,"2022-10-08",22,blue-collar,single,basic.6y,unknown,no,no,telephone,may,fri,178,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7671,"2022-10-08",36,blue-collar,married,basic.4y,unknown,no,no,telephone,may,fri,42,11,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7672,"2022-10-08",54,technician,married,professional.course,no,no,no,telephone,may,fri,171,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7673,"2022-10-08",51,admin.,married,university.degree,unknown,yes,no,telephone,may,fri,119,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7674,"2022-10-08",50,admin.,married,basic.6y,no,no,no,telephone,may,fri,66,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7675,"2022-10-08",44,admin.,married,high.school,no,no,no,telephone,may,fri,130,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7676,"2022-10-08",52,entrepreneur,married,basic.9y,no,yes,yes,telephone,may,fri,390,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7677,"2022-10-08",33,management,single,university.degree,no,no,no,telephone,may,fri,101,16,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7678,"2022-10-08",51,admin.,married,professional.course,no,yes,no,telephone,may,fri,78,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7679,"2022-10-08",30,admin.,single,high.school,no,yes,no,telephone,may,fri,100,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7680,"2022-10-08",36,self-employed,divorced,basic.4y,no,no,no,telephone,may,fri,212,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7681,"2022-10-08",42,blue-collar,divorced,basic.4y,no,no,no,telephone,may,fri,181,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7682,"2022-10-08",30,blue-collar,single,basic.6y,no,yes,no,telephone,may,fri,72,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7683,"2022-10-08",23,admin.,married,high.school,no,yes,no,telephone,may,fri,390,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7684,"2022-10-08",44,services,married,high.school,no,no,no,telephone,may,fri,324,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7685,"2022-10-08",28,admin.,single,university.degree,no,yes,yes,telephone,may,fri,163,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7686,"2022-10-08",39,services,married,high.school,no,no,no,telephone,may,fri,110,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7687,"2022-10-08",57,retired,married,high.school,unknown,no,no,telephone,may,fri,72,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7688,"2022-10-08",30,blue-collar,married,unknown,no,no,no,telephone,may,fri,85,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7689,"2022-10-08",52,unknown,married,basic.6y,no,no,no,telephone,may,fri,54,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7690,"2022-10-08",27,admin.,married,basic.9y,no,yes,no,telephone,may,fri,231,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7691,"2022-10-08",37,self-employed,married,high.school,no,no,no,telephone,may,fri,833,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7692,"2022-10-08",44,technician,married,professional.course,no,no,no,telephone,may,fri,124,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7693,"2022-10-08",35,technician,divorced,professional.course,no,no,no,telephone,may,fri,57,10,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7694,"2022-10-08",35,blue-collar,married,basic.6y,no,yes,no,telephone,may,fri,115,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7695,"2022-10-08",37,self-employed,married,professional.course,unknown,yes,no,telephone,may,fri,78,13,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7696,"2022-10-08",44,admin.,married,high.school,no,yes,no,telephone,may,fri,43,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7697,"2022-10-08",39,entrepreneur,married,high.school,no,no,yes,telephone,may,fri,229,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7698,"2022-10-08",50,blue-collar,married,unknown,unknown,yes,no,telephone,may,fri,81,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7699,"2022-10-08",53,services,married,basic.4y,no,no,no,telephone,may,fri,86,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7700,"2022-10-08",31,blue-collar,single,unknown,no,yes,no,telephone,may,fri,273,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7701,"2022-10-08",28,admin.,married,high.school,no,no,yes,telephone,may,fri,30,18,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7702,"2022-10-08",57,services,divorced,high.school,no,yes,no,telephone,may,fri,288,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7703,"2022-10-08",42,services,married,high.school,unknown,yes,no,telephone,may,fri,247,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7704,"2022-10-08",34,admin.,married,university.degree,no,no,no,telephone,may,fri,85,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7705,"2022-10-08",48,admin.,married,university.degree,no,no,no,telephone,may,fri,76,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7706,"2022-10-08",47,admin.,married,basic.6y,unknown,yes,no,telephone,may,fri,85,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7707,"2022-10-08",36,management,married,university.degree,no,yes,no,telephone,may,fri,170,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7708,"2022-10-08",28,blue-collar,married,basic.6y,unknown,yes,no,telephone,may,fri,428,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7709,"2022-10-08",31,admin.,married,university.degree,no,no,no,telephone,may,fri,370,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7710,"2022-10-08",30,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,137,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7711,"2022-10-08",38,services,married,high.school,unknown,no,no,telephone,may,fri,293,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7712,"2022-10-08",57,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,153,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7713,"2022-10-08",45,blue-collar,divorced,basic.9y,no,yes,no,telephone,may,fri,281,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7714,"2022-10-08",42,technician,divorced,university.degree,no,yes,no,telephone,may,fri,46,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7715,"2022-10-08",31,admin.,single,high.school,no,yes,no,telephone,may,fri,26,25,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7716,"2022-10-08",30,technician,married,university.degree,no,yes,no,telephone,may,fri,104,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7717,"2022-10-08",37,housemaid,married,high.school,no,yes,yes,telephone,may,fri,205,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7718,"2022-10-08",32,admin.,single,high.school,no,yes,no,telephone,may,fri,891,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7719,"2022-10-08",41,technician,married,professional.course,no,no,no,telephone,may,fri,34,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7720,"2022-10-08",43,blue-collar,married,basic.4y,unknown,no,no,telephone,may,fri,745,12,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7721,"2022-10-08",34,entrepreneur,married,professional.course,no,yes,no,telephone,may,fri,292,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7722,"2022-10-08",47,technician,married,professional.course,no,no,no,telephone,may,fri,135,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7723,"2022-10-08",40,management,married,high.school,unknown,no,no,telephone,may,fri,45,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7724,"2022-10-08",43,services,married,high.school,unknown,yes,no,telephone,may,fri,99,6,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7725,"2022-10-08",48,blue-collar,single,basic.6y,unknown,no,no,telephone,may,fri,148,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7726,"2022-10-08",40,admin.,divorced,professional.course,no,yes,no,telephone,may,fri,539,12,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7727,"2022-10-08",38,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,84,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7728,"2022-10-08",37,unemployed,married,professional.course,no,yes,no,telephone,may,fri,3631,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7729,"2022-10-08",55,blue-collar,married,basic.4y,no,no,no,telephone,may,fri,435,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7730,"2022-10-08",42,blue-collar,married,basic.4y,no,yes,no,telephone,may,fri,29,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7731,"2022-10-08",30,self-employed,single,university.degree,no,no,no,telephone,may,fri,510,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7732,"2022-10-08",31,services,single,basic.9y,no,no,no,telephone,may,fri,1044,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,yes
+7733,"2022-10-08",57,management,married,university.degree,unknown,no,yes,telephone,may,fri,59,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7734,"2022-10-08",47,entrepreneur,married,university.degree,unknown,yes,no,telephone,may,fri,96,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7735,"2022-10-08",38,technician,married,professional.course,no,yes,no,telephone,may,fri,122,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7736,"2022-10-08",40,admin.,married,high.school,unknown,no,yes,telephone,may,fri,84,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7737,"2022-10-08",60,unknown,single,unknown,unknown,no,no,telephone,may,fri,33,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7738,"2022-10-08",50,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,43,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7739,"2022-10-08",44,admin.,married,high.school,no,yes,no,telephone,may,fri,223,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7740,"2022-10-08",40,services,married,high.school,no,yes,no,telephone,may,fri,288,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7741,"2022-10-08",34,blue-collar,divorced,basic.4y,no,yes,no,telephone,may,fri,306,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7742,"2022-10-08",46,technician,married,basic.9y,unknown,no,no,telephone,may,fri,81,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7743,"2022-10-08",33,admin.,married,high.school,no,yes,no,telephone,may,fri,53,7,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7744,"2022-10-08",51,blue-collar,married,unknown,unknown,yes,no,telephone,may,fri,436,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7745,"2022-10-08",37,unemployed,married,professional.course,no,no,no,telephone,may,fri,41,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7746,"2022-10-08",30,services,married,high.school,no,no,no,telephone,may,fri,147,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7747,"2022-10-08",56,housemaid,married,basic.4y,no,yes,no,telephone,may,fri,81,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7748,"2022-10-08",31,blue-collar,married,basic.9y,no,no,no,telephone,may,fri,232,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7749,"2022-10-08",39,blue-collar,married,basic.9y,unknown,no,yes,telephone,may,fri,97,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7750,"2022-10-08",40,self-employed,married,basic.4y,unknown,yes,no,telephone,may,fri,82,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7751,"2022-10-08",36,housemaid,married,basic.6y,no,yes,no,telephone,may,fri,60,16,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7752,"2022-10-08",40,services,married,high.school,no,yes,yes,telephone,may,fri,141,9,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7753,"2022-10-08",41,self-employed,married,high.school,no,yes,no,telephone,may,fri,206,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7754,"2022-10-08",42,unemployed,married,basic.4y,no,yes,no,telephone,may,fri,170,19,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7755,"2022-10-08",47,management,married,basic.4y,unknown,no,yes,telephone,may,fri,251,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7756,"2022-10-08",51,admin.,married,basic.9y,no,no,no,telephone,may,fri,25,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7757,"2022-10-08",33,technician,married,professional.course,no,no,no,telephone,may,fri,120,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7758,"2022-10-08",35,admin.,single,university.degree,no,no,no,telephone,may,fri,123,4,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7759,"2022-10-08",48,unemployed,married,basic.6y,no,no,yes,telephone,may,fri,58,3,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7760,"2022-10-08",46,blue-collar,married,basic.4y,unknown,no,yes,telephone,may,fri,28,8,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7761,"2022-10-08",24,entrepreneur,married,university.degree,unknown,no,no,telephone,may,fri,1193,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7762,"2022-10-08",27,blue-collar,married,basic.9y,unknown,no,yes,telephone,may,fri,127,5,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7763,"2022-10-08",33,technician,married,professional.course,no,no,no,telephone,may,fri,395,2,999,0,nonexistent,1.1,"93 994",-36.4,"4 864",5191,no
+7764,"2022-10-08",26,management,single,university.degree,no,no,no,telephone,jun,mon,72,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7765,"2022-10-08",42,technician,married,professional.course,unknown,no,no,telephone,jun,mon,119,9,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7766,"2022-10-08",30,admin.,married,university.degree,no,no,no,telephone,jun,mon,100,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7767,"2022-10-08",55,technician,married,basic.9y,no,no,no,telephone,jun,mon,80,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7768,"2022-10-08",41,blue-collar,married,basic.4y,no,yes,no,telephone,jun,mon,132,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7769,"2022-10-08",47,blue-collar,divorced,basic.4y,no,no,no,telephone,jun,mon,140,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7770,"2022-10-08",42,admin.,married,university.degree,no,no,no,telephone,jun,mon,130,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7771,"2022-10-08",53,housemaid,married,professional.course,unknown,yes,no,telephone,jun,mon,251,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7772,"2022-10-08",45,services,married,basic.9y,no,no,no,telephone,jun,mon,71,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7773,"2022-10-08",54,technician,married,professional.course,unknown,yes,no,telephone,jun,mon,52,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7774,"2022-10-08",39,unemployed,married,university.degree,no,yes,no,telephone,jun,mon,108,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7775,"2022-10-08",52,technician,married,professional.course,no,yes,no,telephone,jun,mon,150,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7776,"2022-10-08",38,services,married,high.school,unknown,yes,no,telephone,jun,mon,25,7,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7777,"2022-10-08",58,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,90,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7778,"2022-10-08",37,technician,single,professional.course,unknown,unknown,unknown,telephone,jun,mon,51,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7779,"2022-10-08",29,services,divorced,high.school,no,no,yes,telephone,jun,mon,361,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7780,"2022-10-08",59,retired,married,unknown,no,no,yes,telephone,jun,mon,88,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7781,"2022-10-08",36,self-employed,divorced,university.degree,no,yes,yes,telephone,jun,mon,372,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7782,"2022-10-08",30,services,married,high.school,no,no,no,telephone,jun,mon,360,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7783,"2022-10-08",46,technician,married,professional.course,no,no,yes,telephone,jun,mon,63,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7784,"2022-10-08",46,retired,married,basic.4y,no,yes,no,telephone,jun,mon,550,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7785,"2022-10-08",38,unknown,divorced,high.school,unknown,yes,no,telephone,jun,mon,133,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7786,"2022-10-08",57,blue-collar,divorced,unknown,unknown,no,no,telephone,jun,mon,68,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7787,"2022-10-08",25,admin.,single,high.school,no,no,no,telephone,jun,mon,175,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7788,"2022-10-08",49,management,married,university.degree,no,no,no,telephone,jun,mon,202,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7789,"2022-10-08",38,blue-collar,married,high.school,no,yes,yes,telephone,jun,mon,192,8,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7790,"2022-10-08",59,retired,married,university.degree,unknown,yes,no,telephone,jun,mon,484,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7791,"2022-10-08",32,technician,single,professional.course,no,unknown,unknown,telephone,jun,mon,230,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7792,"2022-10-08",37,entrepreneur,married,university.degree,no,yes,no,telephone,jun,mon,403,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7793,"2022-10-08",34,blue-collar,divorced,basic.4y,unknown,no,no,telephone,jun,mon,178,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7794,"2022-10-08",46,admin.,married,university.degree,no,yes,no,telephone,jun,mon,502,5,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7795,"2022-10-08",47,self-employed,married,professional.course,no,yes,no,telephone,jun,mon,338,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7796,"2022-10-08",26,services,single,basic.9y,no,yes,no,telephone,jun,mon,205,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7797,"2022-10-08",35,technician,single,high.school,no,yes,no,telephone,jun,mon,92,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7798,"2022-10-08",42,blue-collar,married,unknown,unknown,no,no,telephone,jun,mon,268,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7799,"2022-10-08",48,technician,married,high.school,no,no,no,telephone,jun,mon,185,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7800,"2022-10-08",42,management,divorced,high.school,no,no,no,telephone,jun,mon,163,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7801,"2022-10-08",55,technician,married,basic.9y,unknown,no,no,telephone,jun,mon,362,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7802,"2022-10-08",41,admin.,single,university.degree,no,no,no,telephone,jun,mon,367,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7803,"2022-10-08",46,admin.,married,university.degree,unknown,no,no,telephone,jun,mon,230,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7804,"2022-10-08",44,technician,married,basic.4y,no,no,no,telephone,jun,mon,26,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7805,"2022-10-08",38,admin.,married,basic.9y,unknown,no,no,telephone,jun,mon,63,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7806,"2022-10-08",30,admin.,married,university.degree,no,no,no,telephone,jun,mon,493,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7807,"2022-10-08",54,services,divorced,high.school,no,no,no,telephone,jun,mon,113,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7808,"2022-10-08",48,entrepreneur,married,basic.4y,no,no,yes,telephone,jun,mon,215,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7809,"2022-10-08",38,unemployed,married,basic.6y,no,no,no,telephone,jun,mon,947,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7810,"2022-10-08",33,services,single,basic.6y,no,yes,no,telephone,jun,mon,177,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7811,"2022-10-08",44,self-employed,divorced,high.school,no,yes,no,telephone,jun,mon,123,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7812,"2022-10-08",39,admin.,single,university.degree,no,yes,yes,telephone,jun,mon,1075,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7813,"2022-10-08",40,technician,married,professional.course,unknown,no,no,telephone,jun,mon,21,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7814,"2022-10-08",43,unemployed,married,university.degree,unknown,no,no,telephone,jun,mon,114,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7815,"2022-10-08",60,management,married,university.degree,no,no,no,telephone,jun,mon,526,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7816,"2022-10-08",56,retired,divorced,basic.4y,no,no,no,telephone,jun,mon,163,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7817,"2022-10-08",46,entrepreneur,married,basic.9y,no,no,no,telephone,jun,mon,245,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7818,"2022-10-08",30,services,divorced,basic.9y,no,no,no,telephone,jun,mon,394,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7819,"2022-10-08",38,technician,single,university.degree,no,no,no,telephone,jun,mon,258,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7820,"2022-10-08",28,services,married,high.school,no,no,no,telephone,jun,mon,659,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7821,"2022-10-08",40,admin.,married,university.degree,unknown,yes,no,telephone,jun,mon,417,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7822,"2022-10-08",34,services,single,professional.course,unknown,yes,no,telephone,jun,mon,40,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7823,"2022-10-08",40,admin.,married,university.degree,unknown,yes,no,telephone,jun,mon,527,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7824,"2022-10-08",35,services,single,basic.4y,no,no,no,telephone,jun,mon,651,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7825,"2022-10-08",43,retired,married,basic.4y,unknown,yes,no,telephone,jun,mon,129,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7826,"2022-10-08",51,management,married,university.degree,no,yes,yes,telephone,jun,mon,409,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7827,"2022-10-08",33,blue-collar,married,high.school,no,no,no,telephone,jun,mon,283,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7828,"2022-10-08",35,admin.,divorced,university.degree,no,yes,no,telephone,jun,mon,144,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7829,"2022-10-08",25,blue-collar,married,basic.9y,unknown,no,no,telephone,jun,mon,97,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7830,"2022-10-08",50,services,divorced,basic.4y,unknown,yes,no,telephone,jun,mon,168,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7831,"2022-10-08",34,blue-collar,single,basic.4y,unknown,yes,no,telephone,jun,mon,101,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7832,"2022-10-08",47,technician,single,university.degree,no,no,yes,telephone,jun,mon,67,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7833,"2022-10-08",35,blue-collar,married,basic.6y,no,yes,yes,telephone,jun,mon,64,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7834,"2022-10-08",35,admin.,single,basic.4y,unknown,yes,no,telephone,jun,mon,143,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7835,"2022-10-08",39,entrepreneur,married,basic.9y,unknown,yes,no,telephone,jun,mon,70,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7836,"2022-10-08",42,blue-collar,married,basic.6y,no,yes,no,telephone,jun,mon,1036,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7837,"2022-10-08",42,blue-collar,married,basic.6y,no,no,no,telephone,jun,mon,384,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7838,"2022-10-08",43,blue-collar,divorced,unknown,no,yes,no,telephone,jun,mon,172,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7839,"2022-10-08",48,technician,married,professional.course,unknown,no,no,telephone,jun,mon,105,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7840,"2022-10-08",25,blue-collar,married,basic.9y,no,yes,yes,telephone,jun,mon,60,5,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7841,"2022-10-08",32,blue-collar,married,professional.course,no,yes,no,telephone,jun,mon,26,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7842,"2022-10-08",47,self-employed,divorced,professional.course,unknown,yes,no,telephone,jun,mon,364,13,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7843,"2022-10-08",47,technician,single,professional.course,unknown,yes,yes,telephone,jun,mon,227,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7844,"2022-10-08",30,services,married,high.school,no,no,no,telephone,jun,mon,151,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7845,"2022-10-08",31,self-employed,married,university.degree,no,yes,yes,telephone,jun,mon,464,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7846,"2022-10-08",35,management,single,university.degree,no,yes,no,telephone,jun,mon,68,21,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7847,"2022-10-08",38,blue-collar,married,basic.9y,unknown,no,no,telephone,jun,mon,464,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7848,"2022-10-08",39,blue-collar,married,basic.9y,unknown,yes,no,telephone,jun,mon,389,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7849,"2022-10-08",45,blue-collar,single,basic.9y,no,no,no,telephone,jun,mon,185,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7850,"2022-10-08",40,blue-collar,single,basic.9y,no,yes,no,telephone,jun,mon,128,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7851,"2022-10-08",30,services,married,high.school,no,no,no,telephone,jun,mon,88,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7852,"2022-10-08",48,blue-collar,married,unknown,unknown,no,no,telephone,jun,mon,136,7,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7853,"2022-10-08",38,blue-collar,married,basic.6y,unknown,no,no,telephone,jun,mon,123,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7854,"2022-10-08",58,unemployed,married,basic.9y,no,no,no,telephone,jun,mon,266,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7855,"2022-10-08",39,blue-collar,married,basic.4y,unknown,yes,no,telephone,jun,mon,466,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7856,"2022-10-08",58,blue-collar,married,basic.6y,unknown,no,no,telephone,jun,mon,80,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7857,"2022-10-08",39,admin.,married,university.degree,no,yes,no,telephone,jun,mon,490,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7858,"2022-10-08",35,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,232,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7859,"2022-10-08",40,management,married,university.degree,no,unknown,unknown,telephone,jun,mon,61,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7860,"2022-10-08",49,admin.,divorced,high.school,no,yes,no,telephone,jun,mon,537,5,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7861,"2022-10-08",34,blue-collar,married,basic.9y,unknown,yes,no,telephone,jun,mon,197,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7862,"2022-10-08",49,unemployed,divorced,professional.course,no,no,no,telephone,jun,mon,464,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7863,"2022-10-08",32,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,447,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7864,"2022-10-08",44,admin.,single,high.school,no,no,no,telephone,jun,mon,164,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7865,"2022-10-08",35,blue-collar,married,high.school,no,no,no,telephone,jun,mon,184,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7866,"2022-10-08",38,technician,single,professional.course,unknown,yes,no,telephone,jun,mon,127,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7867,"2022-10-08",35,blue-collar,married,basic.9y,no,yes,no,telephone,jun,mon,373,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7868,"2022-10-08",33,technician,single,university.degree,no,yes,no,telephone,jun,mon,42,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7869,"2022-10-08",30,services,single,high.school,no,no,no,telephone,jun,mon,132,6,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7870,"2022-10-08",55,entrepreneur,divorced,university.degree,no,yes,yes,telephone,jun,mon,579,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7871,"2022-10-08",47,entrepreneur,married,university.degree,no,no,yes,telephone,jun,mon,180,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7872,"2022-10-08",51,blue-collar,married,basic.9y,no,yes,no,telephone,jun,mon,159,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7873,"2022-10-08",40,entrepreneur,married,professional.course,unknown,no,no,telephone,jun,mon,66,6,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7874,"2022-10-08",44,blue-collar,married,professional.course,no,no,no,telephone,jun,mon,239,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7875,"2022-10-08",41,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,95,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7876,"2022-10-08",32,blue-collar,single,basic.4y,no,yes,yes,telephone,jun,mon,156,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7877,"2022-10-08",40,services,single,high.school,unknown,yes,no,telephone,jun,mon,89,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7878,"2022-10-08",41,self-employed,married,basic.4y,no,no,no,telephone,jun,mon,174,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7879,"2022-10-08",38,technician,married,basic.9y,no,no,no,telephone,jun,mon,59,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7880,"2022-10-08",29,technician,single,unknown,no,no,no,telephone,jun,mon,193,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7881,"2022-10-08",32,admin.,single,university.degree,no,unknown,unknown,telephone,jun,mon,215,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7882,"2022-10-08",39,services,single,high.school,unknown,yes,yes,telephone,jun,mon,563,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7883,"2022-10-08",41,services,divorced,high.school,no,yes,yes,telephone,jun,mon,273,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7884,"2022-10-08",39,self-employed,married,basic.4y,unknown,yes,yes,telephone,jun,mon,258,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7885,"2022-10-08",25,admin.,single,high.school,no,no,no,telephone,jun,mon,223,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7886,"2022-10-08",33,technician,married,basic.9y,no,no,no,telephone,jun,mon,76,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7887,"2022-10-08",24,services,single,high.school,no,yes,no,telephone,jun,mon,920,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7888,"2022-10-08",36,housemaid,married,basic.4y,no,no,no,telephone,jun,mon,152,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7889,"2022-10-08",35,blue-collar,divorced,basic.4y,unknown,yes,no,telephone,jun,mon,130,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7890,"2022-10-08",40,blue-collar,married,basic.6y,unknown,yes,yes,telephone,jun,mon,21,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7891,"2022-10-08",26,admin.,married,high.school,unknown,no,no,telephone,jun,mon,118,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7892,"2022-10-08",40,technician,divorced,university.degree,no,yes,no,telephone,jun,mon,113,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7893,"2022-10-08",45,management,married,university.degree,no,no,no,telephone,jun,mon,369,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7894,"2022-10-08",39,entrepreneur,married,high.school,no,unknown,unknown,telephone,jun,mon,122,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7895,"2022-10-08",26,admin.,single,high.school,no,no,yes,telephone,jun,mon,445,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7896,"2022-10-08",41,technician,single,university.degree,unknown,no,no,telephone,jun,mon,47,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7897,"2022-10-08",48,housemaid,married,basic.6y,unknown,yes,no,telephone,jun,mon,425,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7898,"2022-10-08",32,admin.,married,high.school,no,no,no,telephone,jun,mon,142,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7899,"2022-10-08",47,admin.,married,professional.course,no,no,no,telephone,jun,mon,317,6,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7900,"2022-10-08",51,blue-collar,married,basic.4y,no,yes,yes,telephone,jun,mon,184,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7901,"2022-10-08",55,blue-collar,married,professional.course,unknown,yes,yes,telephone,jun,mon,354,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7902,"2022-10-08",37,admin.,divorced,university.degree,no,yes,no,telephone,jun,mon,82,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7903,"2022-10-08",52,services,married,high.school,unknown,yes,no,telephone,jun,mon,105,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7904,"2022-10-08",47,management,divorced,university.degree,no,yes,yes,telephone,jun,mon,83,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7905,"2022-10-08",33,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,209,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7906,"2022-10-08",53,admin.,divorced,university.degree,unknown,no,no,telephone,jun,mon,53,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7907,"2022-10-08",57,housemaid,married,basic.4y,no,yes,no,telephone,jun,mon,210,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7908,"2022-10-08",53,services,married,high.school,unknown,yes,no,telephone,jun,mon,381,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7909,"2022-10-08",25,admin.,married,unknown,no,no,no,telephone,jun,mon,112,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7910,"2022-10-08",26,admin.,single,high.school,no,no,no,telephone,jun,mon,278,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7911,"2022-10-08",46,management,married,university.degree,unknown,no,no,telephone,jun,mon,183,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7912,"2022-10-08",58,retired,married,high.school,unknown,no,no,telephone,jun,mon,389,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7913,"2022-10-08",56,technician,married,university.degree,no,no,yes,telephone,jun,mon,69,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7914,"2022-10-08",52,technician,married,high.school,no,unknown,unknown,telephone,jun,mon,24,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7915,"2022-10-08",43,technician,married,professional.course,no,no,no,telephone,jun,mon,143,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7916,"2022-10-08",36,technician,married,professional.course,no,yes,no,telephone,jun,mon,302,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7917,"2022-10-08",45,blue-collar,single,high.school,unknown,no,no,telephone,jun,mon,68,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7918,"2022-10-08",36,blue-collar,married,basic.6y,unknown,no,no,telephone,jun,mon,183,5,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7919,"2022-10-08",55,admin.,divorced,unknown,unknown,yes,no,telephone,jun,mon,49,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7920,"2022-10-08",29,blue-collar,married,basic.4y,no,yes,no,telephone,jun,mon,148,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7921,"2022-10-08",48,blue-collar,married,basic.4y,no,yes,no,telephone,jun,mon,481,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7922,"2022-10-08",42,services,divorced,high.school,unknown,yes,no,telephone,jun,mon,45,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7923,"2022-10-08",47,admin.,married,university.degree,no,no,no,telephone,jun,mon,121,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7924,"2022-10-08",45,technician,single,professional.course,no,no,no,telephone,jun,mon,180,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7925,"2022-10-08",25,blue-collar,married,basic.9y,unknown,yes,no,telephone,jun,mon,283,5,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7926,"2022-10-08",41,services,divorced,basic.9y,no,yes,no,telephone,jun,mon,312,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7927,"2022-10-08",51,technician,married,professional.course,no,no,yes,telephone,jun,mon,147,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7928,"2022-10-08",41,technician,single,university.degree,unknown,yes,no,telephone,jun,mon,178,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7929,"2022-10-08",40,blue-collar,married,basic.9y,no,yes,no,telephone,jun,mon,154,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7930,"2022-10-08",33,services,single,high.school,no,no,no,telephone,jun,mon,326,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7931,"2022-10-08",28,admin.,single,university.degree,no,no,no,telephone,jun,mon,362,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7932,"2022-10-08",27,admin.,married,basic.9y,no,yes,no,telephone,jun,mon,72,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7933,"2022-10-08",25,admin.,married,university.degree,no,no,no,telephone,jun,mon,121,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7934,"2022-10-08",45,admin.,married,unknown,no,yes,no,telephone,jun,mon,1068,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7935,"2022-10-08",55,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,101,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7936,"2022-10-08",49,blue-collar,married,basic.9y,unknown,yes,no,telephone,jun,mon,210,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7937,"2022-10-08",39,admin.,single,unknown,no,yes,no,telephone,jun,mon,163,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7938,"2022-10-08",53,management,divorced,university.degree,no,no,no,telephone,jun,mon,306,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7939,"2022-10-08",53,unknown,married,high.school,unknown,no,no,telephone,jun,mon,313,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7940,"2022-10-08",31,blue-collar,married,basic.9y,no,yes,no,telephone,jun,mon,94,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7941,"2022-10-08",39,admin.,single,university.degree,unknown,no,no,telephone,jun,mon,658,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7942,"2022-10-08",55,admin.,married,high.school,no,no,yes,telephone,jun,mon,250,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7943,"2022-10-08",38,blue-collar,married,basic.9y,unknown,yes,no,telephone,jun,mon,493,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7944,"2022-10-08",32,blue-collar,divorced,basic.4y,unknown,no,no,telephone,jun,mon,23,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7945,"2022-10-08",34,blue-collar,married,high.school,no,yes,no,telephone,jun,mon,562,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7946,"2022-10-08",54,admin.,married,high.school,unknown,yes,no,telephone,jun,mon,490,12,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7947,"2022-10-08",54,management,married,university.degree,unknown,no,yes,telephone,jun,mon,140,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7948,"2022-10-08",47,management,divorced,university.degree,no,no,yes,telephone,jun,mon,302,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7949,"2022-10-08",29,services,single,high.school,no,yes,yes,telephone,jun,mon,46,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7950,"2022-10-08",36,admin.,married,university.degree,no,yes,no,telephone,jun,mon,149,8,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7951,"2022-10-08",37,services,married,high.school,no,no,no,telephone,jun,mon,88,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7952,"2022-10-08",41,admin.,married,high.school,unknown,no,no,telephone,jun,mon,118,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7953,"2022-10-08",26,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,230,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7954,"2022-10-08",25,self-employed,single,university.degree,no,no,no,telephone,jun,mon,426,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7955,"2022-10-08",60,management,married,university.degree,unknown,no,no,telephone,jun,mon,403,6,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7956,"2022-10-08",40,entrepreneur,married,university.degree,unknown,yes,no,telephone,jun,mon,169,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7957,"2022-10-08",40,technician,single,professional.course,no,yes,no,telephone,jun,mon,123,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7958,"2022-10-08",36,management,married,university.degree,no,no,no,telephone,jun,mon,221,7,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7959,"2022-10-08",38,admin.,married,high.school,no,yes,no,telephone,jun,mon,169,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7960,"2022-10-08",28,blue-collar,single,high.school,no,yes,no,telephone,jun,mon,102,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7961,"2022-10-08",25,technician,divorced,university.degree,no,yes,no,telephone,jun,mon,214,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7962,"2022-10-08",45,management,divorced,university.degree,no,no,no,telephone,jun,mon,572,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7963,"2022-10-08",44,blue-collar,married,basic.9y,unknown,yes,no,telephone,jun,mon,147,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7964,"2022-10-08",51,management,married,unknown,unknown,yes,yes,telephone,jun,mon,124,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7965,"2022-10-08",39,admin.,married,university.degree,no,no,no,telephone,jun,mon,105,11,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7966,"2022-10-08",33,self-employed,single,university.degree,no,yes,no,telephone,jun,mon,171,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7967,"2022-10-08",49,unknown,married,unknown,unknown,yes,no,telephone,jun,mon,498,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7968,"2022-10-08",36,blue-collar,single,basic.4y,no,yes,no,telephone,jun,mon,50,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7969,"2022-10-08",39,self-employed,married,university.degree,no,yes,yes,telephone,jun,mon,31,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7970,"2022-10-08",55,blue-collar,married,basic.4y,unknown,yes,yes,telephone,jun,mon,266,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7971,"2022-10-08",48,blue-collar,divorced,basic.4y,unknown,yes,no,telephone,jun,mon,163,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7972,"2022-10-08",33,admin.,single,university.degree,no,yes,yes,telephone,jun,mon,304,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7973,"2022-10-08",58,blue-collar,married,basic.4y,no,no,no,telephone,jun,mon,469,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7974,"2022-10-08",36,housemaid,married,basic.6y,no,yes,no,telephone,jun,mon,45,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7975,"2022-10-08",28,admin.,married,university.degree,no,no,no,telephone,jun,mon,249,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7976,"2022-10-08",37,admin.,married,university.degree,no,no,no,telephone,jun,mon,85,8,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7977,"2022-10-08",45,technician,married,university.degree,no,no,no,telephone,jun,mon,79,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7978,"2022-10-08",43,technician,single,professional.course,no,yes,no,telephone,jun,mon,70,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7979,"2022-10-08",30,blue-collar,married,professional.course,no,no,no,telephone,jun,mon,758,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7980,"2022-10-08",34,services,divorced,professional.course,unknown,no,no,telephone,jun,mon,466,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7981,"2022-10-08",39,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,200,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7982,"2022-10-08",35,admin.,single,university.degree,no,yes,no,telephone,jun,mon,87,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7983,"2022-10-08",33,admin.,married,high.school,no,yes,no,telephone,jun,mon,966,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7984,"2022-10-08",33,services,single,university.degree,unknown,no,no,telephone,jun,mon,747,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,yes
+7985,"2022-10-08",37,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,430,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7986,"2022-10-08",39,services,divorced,high.school,unknown,yes,no,telephone,jun,mon,241,5,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7987,"2022-10-08",49,technician,married,professional.course,no,no,no,telephone,jun,mon,147,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7988,"2022-10-08",39,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,131,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7989,"2022-10-08",37,entrepreneur,married,basic.9y,no,yes,no,telephone,jun,mon,541,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7990,"2022-10-08",45,admin.,married,university.degree,no,no,no,telephone,jun,mon,281,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7991,"2022-10-08",40,services,divorced,high.school,no,no,no,telephone,jun,mon,158,1,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7992,"2022-10-08",52,admin.,divorced,university.degree,no,no,no,telephone,jun,mon,201,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7993,"2022-10-08",41,admin.,married,high.school,no,no,no,telephone,jun,mon,56,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7994,"2022-10-08",43,admin.,married,high.school,unknown,yes,no,telephone,jun,mon,91,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7995,"2022-10-08",30,blue-collar,single,basic.4y,no,no,no,telephone,jun,mon,187,9,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7996,"2022-10-08",34,unemployed,single,university.degree,no,no,no,telephone,jun,mon,409,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7997,"2022-10-08",41,services,married,basic.9y,no,yes,no,telephone,jun,mon,269,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7998,"2022-10-08",45,admin.,married,high.school,no,yes,no,telephone,jun,mon,221,2,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+7999,"2022-10-08",36,services,single,basic.6y,unknown,no,no,telephone,jun,mon,255,3,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
+8000,"2022-10-08",33,blue-collar,single,basic.9y,unknown,yes,no,telephone,jun,mon,71,4,999,0,nonexistent,1.4,"94 465",-41.8,"4 865",5228,no
