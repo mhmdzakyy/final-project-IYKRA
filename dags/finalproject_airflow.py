@@ -32,8 +32,8 @@ yesterday = today - timedelta(days = 1)
 
 BUCKET_NAME = "fellowship7-finalproject"
 FOLDER_NAME = "FINALPROJECT"
-# CSV_NAME = "bank_{}".format(yesterday)
-CSV_NAME = "bank_2022-10-01"
+CSV_NAME = "bank_{}".format(yesterday)
+# CSV_NAME = "bank_2022-10-01"
 
 PROJECT_ID = "data-fellowship7"
 DATASET_NAME = "final_project"
