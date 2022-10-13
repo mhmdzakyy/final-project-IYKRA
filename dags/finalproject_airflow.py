@@ -20,7 +20,7 @@ from airflow.utils.decorators import apply_defaults
 from airflow.operators.python_operator import PythonOperator
 # from airflow.providers.google.cloud.hooks.gcs import GCSHook
 from airflow.providers.google.cloud.transfers.local_to_gcs import LocalFilesystemToGCSOperator
-from airflow.contrib.operators.bigquery_operator import BigQueryOperator
+from airflow.contrib.operators.bigquery_operator import BigQueryOperator, BigQueryCreateEmptyTableOperator
 from airflow.contrib.hooks.gcs_hook import GoogleCloudStorageHook
 # from airflow.contrib.operators import GoogleCloudStorageToBigQueryOperator
 from airflow.providers.google.cloud.transfers.gcs_to_bigquery import GCSToBigQueryOperator
@@ -37,6 +37,8 @@ CSV_NAME = "bank_2022-10-01"
 
 PROJECT_ID = "data-fellowship7"
 DATASET_NAME = "final_project"
+
+STAGING_DATASET = "staging_bank"
 
 # LOCAL_FILE_PATH = "/.google/credentials/airtravel.csv"
 # LOCAL_FILE_PATH = "/IYKRA/Final_Project_IYKRA/dataset/bank_2022-10-09.csv"
@@ -94,7 +96,6 @@ GCStoBQ = GCSToBigQueryOperator(
     bucket= BUCKET_NAME,
     source_objects=[FOLDER_NAME +"/{}.csv".format(CSV_NAME)],
     destination_project_dataset_table= "{}.{}.{}".format(PROJECT_ID,DATASET_NAME,CSV_NAME),
-    #Nunggu zaky----------
     source_format = 'csv',
     skip_leading_rows=1,
     field_delimiter=',',
@@ -106,7 +107,7 @@ GCStoBQ = GCSToBigQueryOperator(
         {'name': 'job', 'type': 'STRING', 'mode': 'NULLABLE'},
         {'name': 'marital', 'type': 'STRING', 'mode': 'NULLABLE'},
         {'name': 'education', 'type': 'STRING', 'mode': 'NULLABLE'},
-        {'name': 'default', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'defaults', 'type': 'STRING', 'mode': 'NULLABLE'},
         {'name': 'housing', 'type': 'STRING', 'mode': 'NULLABLE'},
         {'name': 'loan', 'type': 'STRING', 'mode': 'NULLABLE'},
         {'name': 'contact', 'type': 'STRING', 'mode': 'NULLABLE'},
@@ -124,7 +125,6 @@ GCStoBQ = GCSToBigQueryOperator(
         {'name': 'nr_employed', 'type': 'INTEGER', 'mode': 'NULLABLE'},
         {'name': 'y', 'type': 'STRING', 'mode': 'NULLABLE'},
     ],
-    #Nunggu zaky----------
     create_disposition='CREATE_IF_NEEDED',
     write_disposition='WRITE_TRUNCATE',
     time_partitioning={
@@ -135,9 +135,126 @@ GCStoBQ = GCSToBigQueryOperator(
                       },
     dag=dag)
 
-uploadtoGCS_task >> GCStoBQ
+ct_bank_client_data = BigQueryCreateEmptyTableOperator(
+    task_id="ct_bank_client_data",
+    dataset_id=DATASET_NAME,
+    table_id="f_bank_client_data",
+    schema_fields=[
+        {'name': 'id', 'type': 'STRING', 'mode': 'REQUIRED'},
+        {'name': 'date', 'type': 'DATE', 'mode': 'NULLABLE'},
+        {'name': 'age', 'type': 'INTEGER', 'mode': 'NULLABLE'},
+        {'name': 'job', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'marital', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'education', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'defaults', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'housing', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'loan', 'type': 'STRING', 'mode': 'NULLABLE'},
+    ],
+    dag=dag)
+
+ct_bank_social_economics = BigQueryCreateEmptyTableOperator(
+    task_id="ct_bank_social_economics",
+    dataset_id=DATASET_NAME,
+    table_id="f_bank_social_economics",
+    schema_fields=[
+        {'name': 'id', 'type': 'STRING', 'mode': 'REQUIRED'},
+        {'name': 'date', 'type': 'DATE', 'mode': 'NULLABLE'},
+        {'name': 'emp_var_rate', 'type': 'FLOAT', 'mode': 'NULLABLE'},
+        {'name': 'cons_price_idx', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'cons_conf_idx', 'type': 'FLOAT', 'mode': 'NULLABLE'},
+        {'name': 'euribor3m', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'nr_employed', 'type': 'INTEGER', 'mode': 'NULLABLE'},
+    ],
+    dag=dag)
+
+ct_related_last_contact = BigQueryCreateEmptyTableOperator(
+    task_id="ct_related_last_contact",
+    dataset_id=DATASET_NAME,
+    table_id="f_related_last_contact",
+    schema_fields=[
+        {'name': 'id', 'type': 'STRING', 'mode': 'REQUIRED'},
+        {'name': 'date', 'type': 'DATE', 'mode': 'NULLABLE'},
+        {'name': 'contact', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'month', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'day_of_week', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'duration', 'type': 'INTEGER', 'mode': 'NULLABLE'},
+    ],
+    dag=dag)
+
+ct_other_attibutes = BigQueryCreateEmptyTableOperator(
+    task_id="ct_other_attibutes",
+    dataset_id=DATASET_NAME,
+    table_id="f_other_attibutes",
+    schema_fields=[
+        {'name': 'id', 'type': 'STRING', 'mode': 'REQUIRED'},
+        {'name': 'date', 'type': 'DATE', 'mode': 'NULLABLE'},
+        {'name': 'campaign', 'type': 'INTEGER', 'mode': 'NULLABLE'},
+        {'name': 'pdays', 'type': 'INTEGER', 'mode': 'NULLABLE'},
+        {'name': 'previous', 'type': 'INTEGER', 'mode': 'NULLABLE'},
+        {'name': 'poutcome', 'type': 'STRING', 'mode': 'NULLABLE'},
+        {'name': 'y', 'type': 'STRING', 'mode': 'NULLABLE'},
+    ],
+    dag=dag)
+
+load_bank_client_data = BigQueryOperator(
+    task_id='load_bank_client_data',
+    use_legacy_sql = False,
+    write_disposition='WRITE_APPEND',
+    sql=f" \
+        SELECT \
+            id, date, age, job, marital, education, defaults, housing, loan \
+        FROM \
+            `{PROJECT_ID}.{DATASET_NAME}.{CSV_NAME}`",
+    destination_dataset_table=f'{PROJECT_ID}.{DATASET_NAME}.f_bank_client_data',
+
+    dag=dag)
+
+load_bank_social_economics = BigQueryOperator(
+    task_id='load_bank_social_economics',
+    use_legacy_sql = False,
+    write_disposition='WRITE_APPEND',
+    sql=f" \
+        SELECT \
+            id, date, emp_var_rate, cons_price_idx, cons_conf_idx, euribor3m, nr_employed \
+        FROM \
+            `{PROJECT_ID}.{DATASET_NAME}.{CSV_NAME}`",
+    destination_dataset_table=f'{PROJECT_ID}.{DATASET_NAME}.f_bank_social_economics',
+
+    dag=dag)
+
+load_related_last_contact = BigQueryOperator(
+    task_id='load_related_last_contact',
+    use_legacy_sql = False,
+    write_disposition='WRITE_APPEND',
+    sql=f" \
+        SELECT \
+            id, date, contact, month, day_of_week, duration \
+        FROM \
+            `{PROJECT_ID}.{DATASET_NAME}.{CSV_NAME}`",
+    destination_dataset_table=f'{PROJECT_ID}.{DATASET_NAME}.f_related_last_contact',
+
+    dag=dag)
+
+load_other_attibutes = BigQueryOperator(
+    task_id='load_other_attibutes',
+    use_legacy_sql = False,
+    write_disposition='WRITE_APPEND',
+    sql=f" \
+        SELECT \
+            id, date, campaign, pdays, previous, poutcome, y \
+        FROM \
+            `{PROJECT_ID}.{DATASET_NAME}.{CSV_NAME}`",
+    destination_dataset_table=f'{PROJECT_ID}.{DATASET_NAME}.f_other_attibutes',
+
+    dag=dag)
 
 
+
+uploadtoGCS_task >> GCStoBQ >> [ct_bank_client_data, ct_bank_social_economics, ct_related_last_contact, ct_other_attibutes]
+ct_bank_client_data >> load_bank_client_data
+ct_bank_social_economics >> load_bank_social_economics
+ct_related_last_contact >> load_related_last_contact
+ct_other_attibutes >> load_other_attibutes
 #Function 4
 
 # t1 = BigQueryOperator(
